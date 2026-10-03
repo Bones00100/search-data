@@ -7,3 +7,6 @@
 1. [skybrary](https://skybrary.aero/)
 2. [kaggle](https://www.kaggle.com/datasets/sanjeetsinghnaik/world-airport-dataset?select=airports.csv)
 3. Были ещё, но их много просмотрел, потерялись.
+
+
+Файлы .csv и .json не со всеми данными, потому что слишком большие получились.

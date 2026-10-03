@@ -1,0 +1,220 @@
+{
+    "ICAO": "ZYQQ",
+    "Latitude": 47.23960114,
+    "Longitude": 123.9179993,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": 477,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "17/35",
+            "Length": 8530,
+            "Surface": "CON"
+        }
+    ]
+}
+{
+    "ICAO": "ZYSQ",
+    "Latitude": 44.938114,
+    "Longitude": 124.550178,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": 459,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "4/22",
+            "Length": 8202,
+            "Surface": "UNPAVED"
+        }
+    ]
+},
+{
+    "ICAO": "ZYTH",
+    "Latitude": 52.224444,
+    "Longitude": 124.720222,
+    "Status": "open",
+    "Type": "small_airport",
+    "Country": "China",
+    "Elevation": 1240,
+    "Timezone": 8,
+    "Runways": []
+},
+{
+    "ICAO": "ZYTL",
+    "Latitude": 38.965698,
+    "Longitude": 121.539001,
+    "Status": "open",
+    "Type": "large_airport",
+    "Country": "China",
+    "Elevation": 107,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "10/28",
+            "Length": 10827,
+            "Surface": "CON"
+        }
+    ]
+},
+{
+    "ICAO": "ZYTN",
+    "Latitude": 42.25388889,
+    "Longitude": 125.7033333,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": 1200,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "5/23",
+            "Length": 7546,
+            "Surface": "UNPAVED"
+        }
+    ]
+},
+{
+    "ICAO": "ZYTX",
+    "Latitude": 41.639801,
+    "Longitude": 123.483002,
+    "Status": "open",
+    "Type": "large_airport",
+    "Country": "China",
+    "Elevation": 198,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "6/24",
+            "Length": 10499,
+            "Surface": "CON"
+        }
+    ]
+},
+{
+    "ICAO": "ZYXW",
+    "Latitude": 60.79299,
+    "Longitude": -138.694027,
+    "Status": "close",
+    "Type": "closed",
+    "Country": "Canada",
+    "Elevation": 1997,
+    "Timezone": -7,
+    "Runways": []
+},
+{
+    "ICAO": "ZYYJ",
+    "Latitude": 42.88280106,
+    "Longitude": 129.451004,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": 624,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "9/27",
+            "Length": 8530,
+            "Surface": "CON"
+        }
+    ]
+},
+{
+    "ICAO": "ZYYK",
+    "Latitude": 40.542524,
+    "Longitude": 122.3586,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": null,
+    "Timezone": 8,
+    "Runways": [
+        {
+            "ID": "4/22",
+            "Length": 8202,
+            "Surface": "UNPAVED"
+        }
+    ]
+},
+{
+    "ICAO": "ZYYY",
+    "Latitude": 41.784401,
+    "Longitude": 123.496002,
+    "Status": "open",
+    "Type": "medium_airport",
+    "Country": "China",
+    "Elevation": null,
+    "Timezone": 8,
+    "Runways": []
+},
+{
+    "ICAO": "ZZ-0001",
+    "Latitude": 51.894444,
+    "Longitude": 1.4825,
+    "Status": "open",
+    "Type": "heliport",
+    "Country": "United Kingdom",
+    "Elevation": 40,
+    "Timezone": 1,
+    "Runways": []
+},
+{
+    "ICAO": "ZZ-0002",
+    "Latitude": -11.58427778,
+    "Longitude": 47.29638889,
+    "Status": "open",
+    "Type": "small_airport",
+    "Country": "French Southern Territories",
+    "Elevation": 11,
+    "Timezone": 3,
+    "Runways": []
+},
+{
+    "ICAO": "87TX",
+    "Latitude": 32.110587,
+    "Longitude": -97.356312,
+    "Status": "open",
+    "Type": "small_airport",
+    "Country": "United States",
+    "Elevation": 690,
+    "Timezone": -5,
+    "Runways": [
+        {
+            "ID": "15/33",
+            "Length": 1800,
+            "Surface": "TURF"
+        }
+    ]
+},
+{
+    "ICAO": "ZZZW",
+    "Latitude": 69.355287,
+    "Longitude": -138.93931,
+    "Status": "close",
+    "Type": "closed",
+    "Country": "Canada",
+    "Elevation": 4,
+    "Timezone": -7,
+    "Runways": []
+},
+{
+    "ICAO": "RJX7",
+    "Latitude": 30.784722,
+    "Longitude": 130.270556,
+    "Status": "open",
+    "Type": "small_airport",
+    "Country": "Japan",
+    "Elevation": 338,
+    "Timezone": 9,
+    "Runways": [
+        {
+            "ID": "18/36",
+            "Length": 1713,
+            "Surface": "CON"
+        }
+    ]
+}
+]
