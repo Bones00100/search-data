@@ -1,0 +1,11 @@
+# PyCharm
+.idea/
+
+# Python virtual environment
+.venv/
+
+# Ненужные файлы проекта
+runways.csv
+sep.md
+airports(vse).csv
+uuee.html
