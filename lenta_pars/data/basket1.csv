@@ -1,0 +1,21 @@
+﻿group,item_id,item,price,price_per_kg,weight_g,url
+свинина,656704,"Рагу из свинины БЛИЖНИЕ ГОРКИ Для тушения, 400г",79.99,199.97,400.0,https://lenta.com/product/ragu-dlya-tusheniya-iz-svininy-ohl-lotok-rossiya-400g-656704/
+курица,563513,"Ноги куриные замороженные ЛЕНТА FRESH, весовые",86.39,86.39,800.0,https://lenta.com/product/nogi-kurinye-zam-ves-rossiya-563513/
+фарш,7027,"Фрикадельки из домашнего фарша ВЫБОР СЕМЬИ, 240г",133.99,558.29,240.0,https://lenta.com/product/frikadelki-iz-domashnego-farsha-rossiya-240g-7027/
+говядина,477718,"Говядина тушеная КУРГАНСКИЙ СТАНДАРТ Стандарт, высший сорт ГОСТ, 338г",184.99,547.31,338.0,https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-vs-gost-rossiya-338g-477718/
+индейка,103078,"Крыло индейки ЛЕНТА FRESH, весовое",179.99,179.99,600.0,https://lenta.com/product/krylo-indejjki-ohl-ves-rossiya-103078/
+субпродукты,143817,"Желудки куриные ЛЕНТА FRESH, весовые",125.0,125.0,500.0,https://lenta.com/product/zheludki-cyplenka-brojjlera-ohl-ves-rossiya-143817/
+полуфабрикаты,736716,"Котлеты для бургеров DELIKAISER, 200г",118.99,594.95,200.0,https://lenta.com/product/kotlety-dburgerov-rossiya-200g-736716/
+другое,744489,"Мясо кур 365 ДНЕЙ Особое, 325г",95.99,295.35,325.0,https://lenta.com/product/mk-kurica-myaso-kur-osoboe-rossiya-325g-744489/
+шашлык,467034,"Шашлык из свинины в томатном маринаде ЛЕНТА FRESH, весовой",339.99,339.99,1000.0,https://lenta.com/product/shashlyk-iz-svininy-v-tomatnom-marinade-polufabrikat-ohlazhdennyjj-rossiya-467034/
+утка,645481,"Набор для бульона из утенка ОЗЁРКА, 400г",80.99,202.47,400.0,https://lenta.com/product/nabor-dlya-bulona-iz-utenka-ohl-rossiya-400g-645481/
+баранина,700786,"Баранина тушеная PREMIUM CLUB высший сорт, 325г",353.99,1089.2,325.0,https://lenta.com/product/myasnye-konservy-baranina-tushenaya-vysshijj-sort-zhb-rossiya-325g-700786/
+кролик,347050,"Кролик тушеный ДРУЖЕ мясо на кости, 325г",297.99,916.89,325.0,https://lenta.com/product/mk-krolik-zhb-rossiya-325-g-347050/
+консервы,73210,"Тушенка со свининой, 340г",49.99,147.03,340.0,https://lenta.com/product/mk-tushenka-so-svininojj-rossiya-340g-73210/
+говядина,359721,"Стейк из мраморной говядины МИРАТОРГ Рибай Black Angus, 320г",1681.99,5256.22,320.0,https://lenta.com/product/govyadina-stejjk-ribajj-blek-angus-rvk-ohl-rossiya-320g-359721/
+говядина,638190,"Стейк из говядины МИРАТОРГ Рибай, категория А, 500г",1517.99,3035.98,500.0,https://lenta.com/product/stejjk-fb-iz-govyadiny-ribajj-kata-ohl-rossiya-500g-638190/
+субпродукты,660846,"Язык говяжий замороженный ЛЕНТА, весовой",1492.49,1492.49,1500.0,https://lenta.com/product/yazyk-govyazhijj-zam-ves-rossiya-660846/
+свинина,728225,"Шейка свиная ЧЕРКИЗОВО По-баварски в оригинальном соусе, весовая",1416.58,1416.58,1800.0,https://lenta.com/product/svinina-shejjka-po-bavarski-v-originalnom-souse-ohl-vu-ves-rossiya-728225/
+говядина,175780,"Тазобедренная часть говядины на кости ЛЕНТА FRESH, весовая",1349.99,1349.99,1500.0,https://lenta.com/product/govyadina-tazobedrennaya-chast-na-kosti-polufabrikat-ohlazhdennyjj-rossiya-175780/
+
+ИТОГО,,,9587.32,,,

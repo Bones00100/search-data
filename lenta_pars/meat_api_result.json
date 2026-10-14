@@ -1,0 +1,3106 @@
+{
+  "categories": [
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000059,
+      "imageUrl": "",
+      "imageWebUrl": "",
+      "isAdult": false,
+      "level": 2,
+      "name": "Кондитерские изделия",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "konditerskie-izdeliya"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "",
+      "id": 24491,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/24491/image/8276abe42e2080af.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/24491/image_web/d7f33af4df23a1e1.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Для дома и уюта",
+      "parentId": 18359,
+      "parentName": "Только в Ленте",
+      "slug": "dlya-doma-i-uyuta"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200003510/icon-app/1a9f8a4f-fac2-4e22-98fc-e091005c325e.png",
+      "id": 3510,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200003510/image/71dfa89f-6c5a-4ee7-b734-ea406f6412f1.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200003510/image-web/818319ed-b83e-4eae-b8f7-2ac6e6efa80d.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Уход за волосами",
+      "parentId": 3509,
+      "parentName": "Уход, гигиена",
+      "slug": "uhod-za-volosami"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000149,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000149/image/3aaeee3328d69661.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000149/image_web/62eb7d2e2dcfda91.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Уходовые средства",
+      "parentId": 202000148,
+      "parentName": "Уход и гигиена",
+      "slug": "uhodovye-sredstva"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000097,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000097/image/c0bfaf5499a8930a.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000097/image_web/641686ec2b06d577.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Молочные продукты, яйца",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "molochnye-produkty-yajjca"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "",
+      "id": 24473,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/24473/image/e4cd577db10be146.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/24473/image_web/adfb4c240a44747b.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Бакалея",
+      "parentId": 18359,
+      "parentName": "Только в Ленте",
+      "slug": "bakaleya"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000089,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000089/image/e8dafa5c65eb7a24.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000089/image_web/a6849bb8bc74c5de.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Снеки",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "sneki"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019530/icon-app/d64419fc-7548-403c-a95f-a92f4eda1bed.png",
+      "id": 19530,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019530/image/559235fa-a23a-481a-91d2-8f8fab803179.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019530/image-web/b7dcfa01-eb9d-4dc3-a13a-54f4df4fe210.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Игрушки и игры",
+      "parentId": 19433,
+      "parentName": "Товары для детей",
+      "slug": "igrushki-i-igry"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002632/icon-app/9d188dda-017d-4538-b7a4-1a05d31fe146.png",
+      "id": 2632,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002632/image/9de7744e-7a94-459f-ad45-31c1a90601bc.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002632/image-web/6b2337fb-3b8b-4797-a6c9-52fce6b37e9d.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Шоколад и батончики",
+      "parentId": 1028,
+      "parentName": "Сладости",
+      "slug": "shokolad-i-batonchiki"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000068,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000068/image/fd77601be24f3874.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000068/image_web/f6c40063d594d6b7.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Колбасы, мясные деликатесы",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "kolbasy-myasnye-delikatesy"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000127,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000127/image/e3d39a69542a5a2d.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000127/image_web/f805234a75abffca.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Чай, кофе, какао",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "chajj-kofe-kakao"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019554/icon-app/937fa3b7-1b8b-4ac7-9825-742dd871fce8.png",
+      "id": 19554,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019554/image/fcfdb4d0-bbf9-45dc-9065-e5ee8f3f575d.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200019554/image-web/07d56ca8-8f12-4211-a07e-11b3c618939e.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Школьные принадлежности",
+      "parentId": 19433,
+      "parentName": "Товары для детей",
+      "slug": "shkolnye-prinadlezhnosti"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000105,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000105/image/d4f455da94134d95.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000105/image_web/582ca30f270e0bca.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Макароны, крупы, мука",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "makarony-krupy-muka"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001495/icon-app/99cacf43-9521-4b1f-b33a-153b09467551.png",
+      "id": 1495,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001495/image/13d93856-193b-43fb-8248-32ca3c782554.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001495/image-web/4008d863-90f2-4043-a6da-91073c8c27dd.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Сервировка стола",
+      "parentId": 1427,
+      "parentName": "Кухня",
+      "slug": "servirovka-stola"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000072,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000072/image/583e3c074b9727ab.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000072/image_web/0f02bac3dedd975e.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Cыры",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "cyry"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000073,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000073/image/fe1adda0b484166d.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000073/image_web/2fb70212d3f1bf0e.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Замороженные продукты",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "zamorozhennye-produkty"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000173,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000173/image/07f169e156e70620.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000173/image_web/b0e6d9058c77e8e9.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Здоровое питание",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "zdorovoe-pitanie"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000243/icon-app/df6bd03a-7c92-4632-8d7e-57084c85831d.png",
+      "id": 243,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000243/image/8a351dde-cd23-40ff-bea5-db2895ff2059.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000243/image-web/173d5a88-f5d7-4386-9172-3cdd839039c0.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Кофе",
+      "parentId": 242,
+      "parentName": "Кофе, чай, какао",
+      "slug": "kofe"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200021344/icon-app/1ad3fc26-4e00-46f8-a0b9-e29bc9dca18f.png",
+      "id": 21344,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200021344/image/ffb746a7-0f6d-46ea-bb46-0a5766a30618.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200021344/image-web/38299038-7bb2-4ec0-9335-ce6c4d13743b.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Чулочно-носочные изделия",
+      "parentId": 2673,
+      "parentName": "Одежда и аксессуары",
+      "slug": "chulochno-nosochnye-izdeliya"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000112,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000112/image/1beaff437ef3d4e4.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000112/image_web/fa50513c3a95de92.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Консервация",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "konservaciya"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002633/icon-app/23503218-efcb-4f27-8d3e-e221062f57f3.png",
+      "id": 2633,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002633/image/0e24e344-109e-490f-9995-78d8c207c0f6.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002633/image-web/344038c7-2bc6-439d-a46c-3046d944f19d.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Конфеты, драже",
+      "parentId": 1028,
+      "parentName": "Сладости",
+      "slug": "konfety-drazhe"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200022109/icon-app/08425d47-f299-485c-a5ee-d5fe1e8b430d.png",
+      "id": 22109,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200022109/image/501ea37f-119a-42bf-9000-cb8f3c241e48.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200022109/image-web/3746f851-5bce-4dee-a5d3-8c5c32dd163a.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Диетические снеки",
+      "parentId": 1879,
+      "parentName": "Здоровое питание",
+      "slug": "dieticheskie-sneki"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000118,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000118/image/3c65dbbc8d566abd.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000118/image_web/5a60d1528a59ff3c.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Масло, соусы, специи",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "maslo-sousy-specii"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000161,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000161/image/e6b940eecb08c138.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000161/image_web/08c38098109a9755.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Товары для уборки, хранения",
+      "parentId": 202000158,
+      "parentName": "Хозяйственные товары",
+      "slug": "tovary-dlya-uborki-hraneniya"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001074/icon-app/dbf558e6-2ae2-469c-9887-9150e4f62b09.png",
+      "id": 1074,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001074/image/a12f72e5-3b65-4b6d-a78e-d1b1eaf61162.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200001074/image-web/abd3a650-69b5-4cba-8e59-12420ef36d05.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Средства для стирки",
+      "parentId": 1070,
+      "parentName": "Бытовая химия",
+      "slug": "sredstva-dlya-stirki"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000080,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000080/image/571cc80655436d72.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000080/image_web/20fcb76f6fed9d28.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Мясо, рыба, морепродукты",
+      "parentId": 202000055,
+      "parentName": "Продукты питания",
+      "slug": "myaso-ryba-moreprodukty"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002825/icon-app/861c3759-1386-47b9-9a98-947011fd67c5.png",
+      "id": 2825,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002825/image/88b753cf-2079-4b78-925e-84c612ac5ce4.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200002825/image-web/a5044acd-6561-42f4-8258-00f405d3d5bf.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Кухонные аксессуары, емкости",
+      "parentId": 1427,
+      "parentName": "Кухня",
+      "slug": "kuhonnye-aksessuary-emkosti"
+    },
+    {
+      "hasChildren": true,
+      "iconUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000250/icon-app/f6974cd7-3ab1-4e64-8a95-f3556bb5e89b.png",
+      "id": 250,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000250/image/45fa3d72-edb1-4ee4-bf75-073678115ddd.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/200000250/image-web/4e14fcb9-920b-4748-b86c-053eba56bdd4.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Чай",
+      "parentId": 242,
+      "parentName": "Кофе, чай, какао",
+      "slug": "chajj"
+    },
+    {
+      "hasChildren": false,
+      "iconUrl": "",
+      "id": 202000133,
+      "imageUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000133/image/c8dda1e4d68f65d0.png",
+      "imageWebUrl": "https://cdn.api.lenta.com/resample/0x0/category_images_v2/202000133/image_web/8d78627220553e30.png",
+      "isAdult": false,
+      "level": 2,
+      "name": "Детское питание",
+      "parentId": 202000132,
+      "parentName": "Детские товары",
+      "slug": "detskoe-pitanie"
+    }
+  ],
+  "items": [
+    {
+      "categoryId": 136,
+      "count": 5,
+      "id": 11304,
+      "images": [
+        {
+          "id": 11304,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/11304/catalog-image/8ec98bf8-75ae-4429-88a3-1af6a16e9bac.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/11304/catalog-image/8ec98bf8-75ae-4429-88a3-1af6a16e9bac.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/11304/catalog-image/8ec98bf8-75ae-4429-88a3-1af6a16e9bac.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/11304/catalog-image/8ec98bf8-75ae-4429-88a3-1af6a16e9bac.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/11304/catalog-image/8ec98bf8-75ae-4429-88a3-1af6a16e9bac.png",
+          "position": 1
+        },
+        {
+          "id": 11304,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/11304/catalog-image/42d25db9-7414-45a8-bdbd-5796c388a631.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/11304/catalog-image/42d25db9-7414-45a8-bdbd-5796c388a631.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/11304/catalog-image/42d25db9-7414-45a8-bdbd-5796c388a631.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/11304/catalog-image/42d25db9-7414-45a8-bdbd-5796c388a631.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/11304/catalog-image/42d25db9-7414-45a8-bdbd-5796c388a631.png",
+          "position": 2
+        },
+        {
+          "id": 11304,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/11304/catalog-image/7415e0fb-4569-4348-9bfc-e85311bf53c0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/11304/catalog-image/7415e0fb-4569-4348-9bfc-e85311bf53c0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/11304/catalog-image/7415e0fb-4569-4348-9bfc-e85311bf53c0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/11304/catalog-image/7415e0fb-4569-4348-9bfc-e85311bf53c0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/11304/catalog-image/7415e0fb-4569-4348-9bfc-e85311bf53c0.png",
+          "position": 3
+        },
+        {
+          "id": 11304,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/11304/catalog-image/ed5b3d9c-5d2a-425d-b08d-a535a127e0d5.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/11304/catalog-image/ed5b3d9c-5d2a-425d-b08d-a535a127e0d5.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/11304/catalog-image/ed5b3d9c-5d2a-425d-b08d-a535a127e0d5.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/11304/catalog-image/ed5b3d9c-5d2a-425d-b08d-a535a127e0d5.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/11304/catalog-image/ed5b3d9c-5d2a-425d-b08d-a535a127e0d5.png",
+          "position": 4
+        }
+      ],
+      "isWeight": true,
+      "name": "Голень куриная ЛЕНТА FRESH, весовая",
+      "prices": {
+        "cost": 28499,
+        "costRegular": 34999,
+        "discount": 6500,
+        "discountPercentage": 19,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 14250,
+        "priceRegular": 17500
+      },
+      "slug": "kurinaya-golen-polufabrikat-ohlazhdennyjj-ves-rossiya",
+      "storeId": 291,
+      "weight": {
+        "gross": 500,
+        "net": 500,
+        "package": ""
+      }
+    },
+    {
+      "categoryId": 3,
+      "count": 115,
+      "id": 579608,
+      "images": [
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/f30b6c9a-ac6f-4717-9cf7-585fcb82b9e0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/f30b6c9a-ac6f-4717-9cf7-585fcb82b9e0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/f30b6c9a-ac6f-4717-9cf7-585fcb82b9e0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/f30b6c9a-ac6f-4717-9cf7-585fcb82b9e0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/f30b6c9a-ac6f-4717-9cf7-585fcb82b9e0.png",
+          "position": 1
+        },
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/6a95f6bc-bd55-4d52-963c-c8c459cfcf63.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/6a95f6bc-bd55-4d52-963c-c8c459cfcf63.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/6a95f6bc-bd55-4d52-963c-c8c459cfcf63.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/6a95f6bc-bd55-4d52-963c-c8c459cfcf63.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/6a95f6bc-bd55-4d52-963c-c8c459cfcf63.png",
+          "position": 2
+        },
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/b4e930dc-2a60-4e63-85ec-01f4c0f30f6a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/b4e930dc-2a60-4e63-85ec-01f4c0f30f6a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/b4e930dc-2a60-4e63-85ec-01f4c0f30f6a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/b4e930dc-2a60-4e63-85ec-01f4c0f30f6a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/b4e930dc-2a60-4e63-85ec-01f4c0f30f6a.png",
+          "position": 3
+        },
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/509cf66c-c0d5-4a29-94a5-1a3b03b8fffa.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/509cf66c-c0d5-4a29-94a5-1a3b03b8fffa.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/509cf66c-c0d5-4a29-94a5-1a3b03b8fffa.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/509cf66c-c0d5-4a29-94a5-1a3b03b8fffa.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/509cf66c-c0d5-4a29-94a5-1a3b03b8fffa.png",
+          "position": 4
+        },
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/fdaeb3ee-a4ec-41f5-a9d0-f07ae745ee29.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/fdaeb3ee-a4ec-41f5-a9d0-f07ae745ee29.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/fdaeb3ee-a4ec-41f5-a9d0-f07ae745ee29.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/fdaeb3ee-a4ec-41f5-a9d0-f07ae745ee29.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/fdaeb3ee-a4ec-41f5-a9d0-f07ae745ee29.png",
+          "position": 5
+        },
+        {
+          "id": 579608,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579608/catalog-image/46ff18e4-dd25-473b-87c1-b5c4276ce0de.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579608/catalog-image/46ff18e4-dd25-473b-87c1-b5c4276ce0de.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579608/catalog-image/46ff18e4-dd25-473b-87c1-b5c4276ce0de.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579608/catalog-image/46ff18e4-dd25-473b-87c1-b5c4276ce0de.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579608/catalog-image/46ff18e4-dd25-473b-87c1-b5c4276ce0de.png",
+          "position": 6
+        }
+      ],
+      "isWeight": false,
+      "name": "Творог ПРОСТОКВАШИНО 5%, без змж, 200г",
+      "prices": {
+        "cost": 10799,
+        "costRegular": 12499,
+        "discount": 1700,
+        "discountPercentage": 14,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 10799,
+        "priceRegular": 12499
+      },
+      "slug": "tvorog-5-bez-zmzh-rossiya-200g",
+      "storeId": 291,
+      "weight": {
+        "gross": 230,
+        "net": 0,
+        "package": "200г"
+      }
+    },
+    {
+      "categoryId": 94,
+      "count": 7,
+      "id": 391562,
+      "images": [
+        {
+          "id": 391562,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/391562/f14fe64f-7cb9-4437-958c-86b36b51b676.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/391562/f14fe64f-7cb9-4437-958c-86b36b51b676.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/391562/f14fe64f-7cb9-4437-958c-86b36b51b676.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/391562/f14fe64f-7cb9-4437-958c-86b36b51b676.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/391562/f14fe64f-7cb9-4437-958c-86b36b51b676.png",
+          "position": 1
+        },
+        {
+          "id": 391562,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/391562/1a01e739-bdf9-4cc6-95ef-f9266d65d7f0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/391562/1a01e739-bdf9-4cc6-95ef-f9266d65d7f0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/391562/1a01e739-bdf9-4cc6-95ef-f9266d65d7f0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/391562/1a01e739-bdf9-4cc6-95ef-f9266d65d7f0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/391562/1a01e739-bdf9-4cc6-95ef-f9266d65d7f0.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Хумус SABABA Рецепт из Назарета, 300г",
+      "prices": {
+        "cost": 35399,
+        "costRegular": 38999,
+        "discount": 3600,
+        "discountPercentage": 9,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 35399,
+        "priceRegular": 38999
+      },
+      "slug": "humus-recept-iz-nazareta-rossiya-300g",
+      "storeId": 291,
+      "weight": {
+        "gross": 300,
+        "net": 0,
+        "package": "300г"
+      }
+    },
+    {
+      "categoryId": 165,
+      "count": 149,
+      "id": 599624,
+      "images": [
+        {
+          "id": 599624,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/599624/catalog-image/9757bb36-cc15-4f67-8d90-5b4334ef6ec3.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/599624/catalog-image/9757bb36-cc15-4f67-8d90-5b4334ef6ec3.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/599624/catalog-image/9757bb36-cc15-4f67-8d90-5b4334ef6ec3.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/599624/catalog-image/9757bb36-cc15-4f67-8d90-5b4334ef6ec3.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/599624/catalog-image/9757bb36-cc15-4f67-8d90-5b4334ef6ec3.png",
+          "position": 1
+        },
+        {
+          "id": 599624,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/599624/catalog-image/71f1e6cb-41ee-4bc2-a2af-6af227b4e13a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/599624/catalog-image/71f1e6cb-41ee-4bc2-a2af-6af227b4e13a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/599624/catalog-image/71f1e6cb-41ee-4bc2-a2af-6af227b4e13a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/599624/catalog-image/71f1e6cb-41ee-4bc2-a2af-6af227b4e13a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/599624/catalog-image/71f1e6cb-41ee-4bc2-a2af-6af227b4e13a.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Багет ржано‑пшеничный Деревенский на закваске ЛЕНТА FRESH, 300г",
+      "prices": {
+        "cost": 8999,
+        "costRegular": 8999,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 8999,
+        "priceRegular": 8999
+      },
+      "slug": "baget-derevenskijj-rzhano-pshenichnyjj-na-zakvaske-sp-rossiya-300g",
+      "storeId": 291,
+      "weight": {
+        "gross": 300,
+        "net": 0,
+        "package": "300г"
+      }
+    },
+    {
+      "categoryId": 2,
+      "count": 9,
+      "id": 578612,
+      "images": [
+        {
+          "id": 578612,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/5786/578612H.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/5786/578612H.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/5786/578612H.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/5786/578612H.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/5786/578612H.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Сыр СВАЛЯ Дваро сливочный 50%, без змж, в нарезке, 125г",
+      "prices": {
+        "cost": 16999,
+        "costRegular": 22399,
+        "discount": 5400,
+        "discountPercentage": 24,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 16999,
+        "priceRegular": 22399
+      },
+      "slug": "syr-dvaro-slivochnyjj-narezka-50-bez-zmzh-rossiya-125g",
+      "storeId": 291,
+      "weight": {
+        "gross": 141,
+        "net": 0,
+        "package": "125г"
+      }
+    },
+    {
+      "categoryId": 3,
+      "count": 1,
+      "id": 679855,
+      "images": [
+        {
+          "id": 679855,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/679855/catalog-image/bbd90c48-3070-4ff1-a888-bff3a0a994b8.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/679855/catalog-image/bbd90c48-3070-4ff1-a888-bff3a0a994b8.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/679855/catalog-image/bbd90c48-3070-4ff1-a888-bff3a0a994b8.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/679855/catalog-image/bbd90c48-3070-4ff1-a888-bff3a0a994b8.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/679855/catalog-image/bbd90c48-3070-4ff1-a888-bff3a0a994b8.png",
+          "position": 1
+        },
+        {
+          "id": 679855,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/679855/catalog-image/b75adb39-8fa5-4f7d-a694-58323170d344.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/679855/catalog-image/b75adb39-8fa5-4f7d-a694-58323170d344.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/679855/catalog-image/b75adb39-8fa5-4f7d-a694-58323170d344.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/679855/catalog-image/b75adb39-8fa5-4f7d-a694-58323170d344.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/679855/catalog-image/b75adb39-8fa5-4f7d-a694-58323170d344.png",
+          "position": 2
+        },
+        {
+          "id": 679855,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/679855/catalog-image/a0bd5123-d35d-4e99-b5dd-37f11a02ee54.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/679855/catalog-image/a0bd5123-d35d-4e99-b5dd-37f11a02ee54.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/679855/catalog-image/a0bd5123-d35d-4e99-b5dd-37f11a02ee54.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/679855/catalog-image/a0bd5123-d35d-4e99-b5dd-37f11a02ee54.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/679855/catalog-image/a0bd5123-d35d-4e99-b5dd-37f11a02ee54.png",
+          "position": 3
+        },
+        {
+          "id": 679855,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/679855/catalog-image/2c4b496f-e882-4d8f-a576-38a4822a36f3.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/679855/catalog-image/2c4b496f-e882-4d8f-a576-38a4822a36f3.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/679855/catalog-image/2c4b496f-e882-4d8f-a576-38a4822a36f3.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/679855/catalog-image/2c4b496f-e882-4d8f-a576-38a4822a36f3.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/679855/catalog-image/2c4b496f-e882-4d8f-a576-38a4822a36f3.png",
+          "position": 4
+        }
+      ],
+      "isWeight": false,
+      "name": "Десерт творожный ЧУДО Воздушный Творожок взбитый со вкусом пломбир 5,8%, без змж, 85г",
+      "prices": {
+        "cost": 4299,
+        "costRegular": 6599,
+        "discount": 2300,
+        "discountPercentage": 35,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 4299,
+        "priceRegular": 6599
+      },
+      "slug": "desert-tvorozhnyjj-vozdushnyjj-tvorozhok-vzbityjj-past-so-vk-plombir-58-bez-zmzh-rossiya-85g",
+      "storeId": 291,
+      "weight": {
+        "gross": 92,
+        "net": 0,
+        "package": "85г"
+      }
+    },
+    {
+      "categoryId": 1427,
+      "count": 20,
+      "id": 693622,
+      "images": [
+        {
+          "id": 693622,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/693622/70998740-5fdc-4f73-af41-2552d4205e4c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/693622/70998740-5fdc-4f73-af41-2552d4205e4c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/693622/70998740-5fdc-4f73-af41-2552d4205e4c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/693622/70998740-5fdc-4f73-af41-2552d4205e4c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/693622/70998740-5fdc-4f73-af41-2552d4205e4c.png",
+          "position": 1
+        },
+        {
+          "id": 693622,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/693622/cc2e8bb6-a399-4e3d-933b-8b121d0cd545.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/693622/cc2e8bb6-a399-4e3d-933b-8b121d0cd545.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/693622/cc2e8bb6-a399-4e3d-933b-8b121d0cd545.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/693622/cc2e8bb6-a399-4e3d-933b-8b121d0cd545.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/693622/cc2e8bb6-a399-4e3d-933b-8b121d0cd545.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Полотенце махровое HOMECLUB Quadro 40х60см, Арт. HCQUADRO4060",
+      "prices": {
+        "cost": 19399,
+        "costRegular": 21999,
+        "discount": 2600,
+        "discountPercentage": 12,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 19399,
+        "priceRegular": 21999
+      },
+      "slug": "polotence-mahrovoe-quadro-40h60sm-hl-hcquadro4060-uzbekistan",
+      "storeId": 291,
+      "weight": {
+        "gross": 82,
+        "net": 0,
+        "package": ""
+      }
+    },
+    {
+      "categoryId": 3,
+      "count": 82,
+      "id": 579544,
+      "images": [
+        {
+          "id": 579544,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579544/7267ad5b-6fe5-404c-96a7-a2a8d8670d08.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579544/7267ad5b-6fe5-404c-96a7-a2a8d8670d08.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579544/7267ad5b-6fe5-404c-96a7-a2a8d8670d08.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579544/7267ad5b-6fe5-404c-96a7-a2a8d8670d08.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579544/7267ad5b-6fe5-404c-96a7-a2a8d8670d08.png",
+          "position": 1
+        },
+        {
+          "id": 579544,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579544/ea4cf93e-8b11-4c6c-aac3-8b8b7b521e09.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579544/ea4cf93e-8b11-4c6c-aac3-8b8b7b521e09.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579544/ea4cf93e-8b11-4c6c-aac3-8b8b7b521e09.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579544/ea4cf93e-8b11-4c6c-aac3-8b8b7b521e09.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579544/ea4cf93e-8b11-4c6c-aac3-8b8b7b521e09.png",
+          "position": 2
+        },
+        {
+          "id": 579544,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579544/f32bcca4-bb1b-46bc-aa47-901cbb018a8a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579544/f32bcca4-bb1b-46bc-aa47-901cbb018a8a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579544/f32bcca4-bb1b-46bc-aa47-901cbb018a8a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579544/f32bcca4-bb1b-46bc-aa47-901cbb018a8a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579544/f32bcca4-bb1b-46bc-aa47-901cbb018a8a.png",
+          "position": 3
+        },
+        {
+          "id": 579544,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/579544/1b03349a-0366-4122-8054-a8302079bcac.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/579544/1b03349a-0366-4122-8054-a8302079bcac.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/579544/1b03349a-0366-4122-8054-a8302079bcac.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/579544/1b03349a-0366-4122-8054-a8302079bcac.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/579544/1b03349a-0366-4122-8054-a8302079bcac.png",
+          "position": 4
+        }
+      ],
+      "isWeight": false,
+      "name": "Сметана ПРОСТОКВАШИНО 10%, без змж, 300г",
+      "prices": {
+        "cost": 8299,
+        "costRegular": 9499,
+        "discount": 1200,
+        "discountPercentage": 13,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 8299,
+        "priceRegular": 9499
+      },
+      "slug": "smetana-10-bez-zmzh-rossiya-300g",
+      "storeId": 291,
+      "weight": {
+        "gross": 317,
+        "net": 0,
+        "package": "300г"
+      }
+    },
+    {
+      "categoryId": 242,
+      "count": 2,
+      "id": 587327,
+      "images": [
+        {
+          "id": 587327,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/587327/32387d3e-78be-4d45-a317-2a84b0ed6956.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/587327/32387d3e-78be-4d45-a317-2a84b0ed6956.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/587327/32387d3e-78be-4d45-a317-2a84b0ed6956.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/587327/32387d3e-78be-4d45-a317-2a84b0ed6956.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/587327/32387d3e-78be-4d45-a317-2a84b0ed6956.png",
+          "position": 1
+        },
+        {
+          "id": 587327,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/587327/e8842e36-2666-4727-861c-e946674d0d56.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/587327/e8842e36-2666-4727-861c-e946674d0d56.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/587327/e8842e36-2666-4727-861c-e946674d0d56.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/587327/e8842e36-2666-4727-861c-e946674d0d56.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/587327/e8842e36-2666-4727-861c-e946674d0d56.png",
+          "position": 2
+        },
+        {
+          "id": 587327,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/587327/25586c5b-e27a-4620-8c95-40c1a1bed067.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/587327/25586c5b-e27a-4620-8c95-40c1a1bed067.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/587327/25586c5b-e27a-4620-8c95-40c1a1bed067.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/587327/25586c5b-e27a-4620-8c95-40c1a1bed067.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/587327/25586c5b-e27a-4620-8c95-40c1a1bed067.png",
+          "position": 3
+        }
+      ],
+      "isWeight": false,
+      "name": "Чай зеленый SHENNUN с манго китайский, листовой, 100г",
+      "prices": {
+        "cost": 17699,
+        "costRegular": 26399,
+        "discount": 8700,
+        "discountPercentage": 33,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 17699,
+        "priceRegular": 26399
+      },
+      "slug": "chajj-zelenyjj-s-mango-krupnolistovojj-kitajjskijj-kup-kitajj-100g",
+      "storeId": 291,
+      "weight": {
+        "gross": 120,
+        "net": 0,
+        "package": "100г"
+      }
+    },
+    {
+      "categoryId": 18199,
+      "count": 11,
+      "id": 564811,
+      "images": [
+        {
+          "id": 564811,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/564811/catalog-image/bd4fbc90-d6e2-4546-a680-b27c734a345a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/564811/catalog-image/bd4fbc90-d6e2-4546-a680-b27c734a345a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/564811/catalog-image/bd4fbc90-d6e2-4546-a680-b27c734a345a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/564811/catalog-image/bd4fbc90-d6e2-4546-a680-b27c734a345a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/564811/catalog-image/bd4fbc90-d6e2-4546-a680-b27c734a345a.png",
+          "position": 1
+        },
+        {
+          "id": 564811,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/564811/catalog-image/2c4aa9d3-b897-4b20-9644-1c8081a7eb73.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/564811/catalog-image/2c4aa9d3-b897-4b20-9644-1c8081a7eb73.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/564811/catalog-image/2c4aa9d3-b897-4b20-9644-1c8081a7eb73.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/564811/catalog-image/2c4aa9d3-b897-4b20-9644-1c8081a7eb73.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/564811/catalog-image/2c4aa9d3-b897-4b20-9644-1c8081a7eb73.png",
+          "position": 2
+        },
+        {
+          "id": 564811,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/564811/catalog-image/c3ce95c4-cd79-4540-86cc-6b81fa25a347.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/564811/catalog-image/c3ce95c4-cd79-4540-86cc-6b81fa25a347.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/564811/catalog-image/c3ce95c4-cd79-4540-86cc-6b81fa25a347.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/564811/catalog-image/c3ce95c4-cd79-4540-86cc-6b81fa25a347.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/564811/catalog-image/c3ce95c4-cd79-4540-86cc-6b81fa25a347.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Ароматизатор воздуха AUTOSTANDART Magic Fresh, Лимон/Бабл Гам",
+      "prices": {
+        "cost": 23799,
+        "costRegular": 29799,
+        "discount": 6000,
+        "discountPercentage": 20,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 23799,
+        "priceRegular": 29799
+      },
+      "slug": "aromatizator-vozduha-magic-fresh-limon-babl-gam-rossiya",
+      "storeId": 291,
+      "weight": {
+        "gross": 30,
+        "net": 0,
+        "package": ""
+      }
+    },
+    {
+      "categoryId": 18134,
+      "count": 28,
+      "id": 658821,
+      "images": [
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/422f559f-a99a-4d4f-80a8-1444f3d99564.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/422f559f-a99a-4d4f-80a8-1444f3d99564.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/422f559f-a99a-4d4f-80a8-1444f3d99564.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/422f559f-a99a-4d4f-80a8-1444f3d99564.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/422f559f-a99a-4d4f-80a8-1444f3d99564.png",
+          "position": 1
+        },
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/b8d46a6a-4587-4077-b65b-5d69f6e521ac.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/b8d46a6a-4587-4077-b65b-5d69f6e521ac.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/b8d46a6a-4587-4077-b65b-5d69f6e521ac.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/b8d46a6a-4587-4077-b65b-5d69f6e521ac.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/b8d46a6a-4587-4077-b65b-5d69f6e521ac.png",
+          "position": 2
+        },
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/632ade97-bb41-498e-a937-b72d96c9d63a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/632ade97-bb41-498e-a937-b72d96c9d63a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/632ade97-bb41-498e-a937-b72d96c9d63a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/632ade97-bb41-498e-a937-b72d96c9d63a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/632ade97-bb41-498e-a937-b72d96c9d63a.png",
+          "position": 3
+        },
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/c8e77ae4-4ab9-4e55-9e5f-a08d7eef3214.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/c8e77ae4-4ab9-4e55-9e5f-a08d7eef3214.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/c8e77ae4-4ab9-4e55-9e5f-a08d7eef3214.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/c8e77ae4-4ab9-4e55-9e5f-a08d7eef3214.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/c8e77ae4-4ab9-4e55-9e5f-a08d7eef3214.png",
+          "position": 4
+        },
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/e089b704-eee8-4061-b57f-f17b92e0d837.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/e089b704-eee8-4061-b57f-f17b92e0d837.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/e089b704-eee8-4061-b57f-f17b92e0d837.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/e089b704-eee8-4061-b57f-f17b92e0d837.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/e089b704-eee8-4061-b57f-f17b92e0d837.png",
+          "position": 5
+        },
+        {
+          "id": 658821,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/658821/fb00adfc-d7e8-4eb1-a5bd-18ffa0cb093b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/658821/fb00adfc-d7e8-4eb1-a5bd-18ffa0cb093b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/658821/fb00adfc-d7e8-4eb1-a5bd-18ffa0cb093b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/658821/fb00adfc-d7e8-4eb1-a5bd-18ffa0cb093b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/658821/fb00adfc-d7e8-4eb1-a5bd-18ffa0cb093b.png",
+          "position": 6
+        }
+      ],
+      "isWeight": false,
+      "name": "Корм влажный для взрослых кошек FELIX Двойная Вкуснятина Ягненок и курица в желе, 75г",
+      "prices": {
+        "cost": 2899,
+        "costRegular": 4386,
+        "discount": 1487,
+        "discountPercentage": 34,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 2899,
+        "priceRegular": 4386
+      },
+      "slug": "korm-dlya-vzroslyh-koshek-dvojjnaya-vkusnyatina-yagnenok-i-kurica-v-zhele-rossiya-75g",
+      "storeId": 291,
+      "weight": {
+        "gross": 80,
+        "net": 0,
+        "package": "75г"
+      }
+    },
+    {
+      "categoryId": 165,
+      "count": 8,
+      "id": 724370,
+      "images": [
+        {
+          "id": 724370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/724370/5acca27c-8963-4884-af09-699861310bd6.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/724370/5acca27c-8963-4884-af09-699861310bd6.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/724370/5acca27c-8963-4884-af09-699861310bd6.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/724370/5acca27c-8963-4884-af09-699861310bd6.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/724370/5acca27c-8963-4884-af09-699861310bd6.png",
+          "position": 1
+        },
+        {
+          "id": 724370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/724370/94aa8e31-0cf4-4038-b8d1-7a1ad65c8f8f.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/724370/94aa8e31-0cf4-4038-b8d1-7a1ad65c8f8f.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/724370/94aa8e31-0cf4-4038-b8d1-7a1ad65c8f8f.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/724370/94aa8e31-0cf4-4038-b8d1-7a1ad65c8f8f.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/724370/94aa8e31-0cf4-4038-b8d1-7a1ad65c8f8f.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Хлебцы рисовые ЛЕНТА LIFE с ванильно-сливочным вкусом, сладкие, 80г",
+      "prices": {
+        "cost": 8299,
+        "costRegular": 8299,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 8299,
+        "priceRegular": 8299
+      },
+      "slug": "hlebcy-sladkie-risovye-s-vanilno-slivochnym-vkusom-rossiya-80g",
+      "storeId": 291,
+      "weight": {
+        "gross": 84,
+        "net": 0,
+        "package": "80г"
+      }
+    },
+    {
+      "categoryId": 136,
+      "count": 3,
+      "id": 571710,
+      "images": [
+        {
+          "id": 571710,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571710/catalog-image/d906902f-0b81-4f45-a300-5287e722dc6e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571710/catalog-image/d906902f-0b81-4f45-a300-5287e722dc6e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571710/catalog-image/d906902f-0b81-4f45-a300-5287e722dc6e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571710/catalog-image/d906902f-0b81-4f45-a300-5287e722dc6e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571710/catalog-image/d906902f-0b81-4f45-a300-5287e722dc6e.png",
+          "position": 1
+        },
+        {
+          "id": 571710,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571710/d5814d06-9832-4df9-89b1-a2959d470f61.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571710/d5814d06-9832-4df9-89b1-a2959d470f61.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571710/d5814d06-9832-4df9-89b1-a2959d470f61.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571710/d5814d06-9832-4df9-89b1-a2959d470f61.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571710/d5814d06-9832-4df9-89b1-a2959d470f61.png",
+          "position": 2
+        },
+        {
+          "id": 571710,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571710/182e8baa-64cb-4521-abc6-3f93413395e6.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571710/182e8baa-64cb-4521-abc6-3f93413395e6.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571710/182e8baa-64cb-4521-abc6-3f93413395e6.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571710/182e8baa-64cb-4521-abc6-3f93413395e6.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571710/182e8baa-64cb-4521-abc6-3f93413395e6.png",
+          "position": 3
+        },
+        {
+          "id": 571710,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571710/catalog-image/9d17e784-ad2f-466e-88ab-5bb04589a8a6.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571710/catalog-image/9d17e784-ad2f-466e-88ab-5bb04589a8a6.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571710/catalog-image/9d17e784-ad2f-466e-88ab-5bb04589a8a6.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571710/catalog-image/9d17e784-ad2f-466e-88ab-5bb04589a8a6.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571710/catalog-image/9d17e784-ad2f-466e-88ab-5bb04589a8a6.png",
+          "position": 4
+        },
+        {
+          "id": 571710,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571710/catalog-image/3268e311-14bf-446f-9ccd-f8e2fa1a52e6.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571710/catalog-image/3268e311-14bf-446f-9ccd-f8e2fa1a52e6.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571710/catalog-image/3268e311-14bf-446f-9ccd-f8e2fa1a52e6.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571710/catalog-image/3268e311-14bf-446f-9ccd-f8e2fa1a52e6.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571710/catalog-image/3268e311-14bf-446f-9ccd-f8e2fa1a52e6.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Филе бедра куриное ТРОЕКУРОВО, 750г",
+      "prices": {
+        "cost": 39799,
+        "costRegular": 39799,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 39799,
+        "priceRegular": 39799
+      },
+      "slug": "file-bedra-kurinoe-ohl-rossiya-750g",
+      "storeId": 291,
+      "weight": {
+        "gross": 783,
+        "net": 0,
+        "package": "750г"
+      }
+    },
+    {
+      "categoryId": 17400,
+      "count": 53,
+      "id": 556649,
+      "images": [
+        {
+          "id": 556649,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/556649/2b9e3355-47e2-491b-9cdc-65e391325e0b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/556649/2b9e3355-47e2-491b-9cdc-65e391325e0b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/556649/2b9e3355-47e2-491b-9cdc-65e391325e0b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/556649/2b9e3355-47e2-491b-9cdc-65e391325e0b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/556649/2b9e3355-47e2-491b-9cdc-65e391325e0b.png",
+          "position": 1
+        },
+        {
+          "id": 556649,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/556649/d54818f9-84af-499f-afcd-c426186d975e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/556649/d54818f9-84af-499f-afcd-c426186d975e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/556649/d54818f9-84af-499f-afcd-c426186d975e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/556649/d54818f9-84af-499f-afcd-c426186d975e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/556649/d54818f9-84af-499f-afcd-c426186d975e.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Пакеты для мусора ЛЕНТА 35л с ручками, 30шт",
+      "prices": {
+        "cost": 17999,
+        "costRegular": 18999,
+        "discount": 1000,
+        "discountPercentage": 5,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 17999,
+        "priceRegular": 18999
+      },
+      "slug": "pakety-dmusora-35l-s-ruchkami-rossiya-30sht",
+      "storeId": 291,
+      "weight": {
+        "gross": 184,
+        "net": 0,
+        "package": "30шт"
+      }
+    },
+    {
+      "categoryId": 18030,
+      "count": 49,
+      "id": 707970,
+      "images": [
+        {
+          "id": 707970,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/707970/7c7853b9-4cb1-4b0e-a516-0b4c02e7d95d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/707970/7c7853b9-4cb1-4b0e-a516-0b4c02e7d95d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/707970/7c7853b9-4cb1-4b0e-a516-0b4c02e7d95d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/707970/7c7853b9-4cb1-4b0e-a516-0b4c02e7d95d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/707970/7c7853b9-4cb1-4b0e-a516-0b4c02e7d95d.png",
+          "position": 1
+        },
+        {
+          "id": 707970,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/707970/02c6d08d-d4ae-4dd7-a105-964dcdd80e6d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/707970/02c6d08d-d4ae-4dd7-a105-964dcdd80e6d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/707970/02c6d08d-d4ae-4dd7-a105-964dcdd80e6d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/707970/02c6d08d-d4ae-4dd7-a105-964dcdd80e6d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/707970/02c6d08d-d4ae-4dd7-a105-964dcdd80e6d.png",
+          "position": 2
+        },
+        {
+          "id": 707970,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/707970/0c2b507d-794e-41ca-916d-a7e0602023ff.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/707970/0c2b507d-794e-41ca-916d-a7e0602023ff.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/707970/0c2b507d-794e-41ca-916d-a7e0602023ff.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/707970/0c2b507d-794e-41ca-916d-a7e0602023ff.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/707970/0c2b507d-794e-41ca-916d-a7e0602023ff.png",
+          "position": 3
+        },
+        {
+          "id": 707970,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/707970/72fbb2d7-bdbd-441f-a0bc-decf30e714b9.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/707970/72fbb2d7-bdbd-441f-a0bc-decf30e714b9.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/707970/72fbb2d7-bdbd-441f-a0bc-decf30e714b9.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/707970/72fbb2d7-bdbd-441f-a0bc-decf30e714b9.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/707970/72fbb2d7-bdbd-441f-a0bc-decf30e714b9.png",
+          "position": 4
+        }
+      ],
+      "isWeight": false,
+      "name": "Набор линеек КРОК&ДИЛЛИ гибких, Арт. KR970858, 3шт",
+      "prices": {
+        "cost": 9599,
+        "costRegular": 11999,
+        "discount": 2400,
+        "discountPercentage": 20,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 9599,
+        "priceRegular": 11999
+      },
+      "slug": "nabor-lineek-gibkih-kr970858-kitajj-3sht",
+      "storeId": 291,
+      "weight": {
+        "gross": 69,
+        "net": 0,
+        "package": "3шт"
+      }
+    },
+    {
+      "categoryId": 1070,
+      "count": 11,
+      "id": 63174,
+      "images": [
+        {
+          "id": 63174,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/63174/c27ed2b8-c220-4528-9dd7-f8970ef80bb2.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/63174/c27ed2b8-c220-4528-9dd7-f8970ef80bb2.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/63174/c27ed2b8-c220-4528-9dd7-f8970ef80bb2.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/63174/c27ed2b8-c220-4528-9dd7-f8970ef80bb2.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/63174/c27ed2b8-c220-4528-9dd7-f8970ef80bb2.png",
+          "position": 1
+        },
+        {
+          "id": 63174,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/63174/27af1a20-99a5-4bfe-b011-a51da2702237.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/63174/27af1a20-99a5-4bfe-b011-a51da2702237.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/63174/27af1a20-99a5-4bfe-b011-a51da2702237.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/63174/27af1a20-99a5-4bfe-b011-a51da2702237.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/63174/27af1a20-99a5-4bfe-b011-a51da2702237.png",
+          "position": 2
+        },
+        {
+          "id": 63174,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/63174/66105e75-cf1f-465f-92fe-343e0285c95c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/63174/66105e75-cf1f-465f-92fe-343e0285c95c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/63174/66105e75-cf1f-465f-92fe-343e0285c95c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/63174/66105e75-cf1f-465f-92fe-343e0285c95c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/63174/66105e75-cf1f-465f-92fe-343e0285c95c.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Стиральный порошок для детского белья УШАСТЫЙ НЯНЬ, 2,4кг",
+      "prices": {
+        "cost": 48899,
+        "costRegular": 56599,
+        "discount": 7700,
+        "discountPercentage": 14,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 48899,
+        "priceRegular": 56599
+      },
+      "slug": "stiralnyjj-poroshok-ddetbelya-rossiya-24kg",
+      "storeId": 291,
+      "weight": {
+        "gross": 2527,
+        "net": 0,
+        "package": "2,4кг"
+      }
+    },
+    {
+      "categoryId": 3,
+      "count": 12,
+      "id": 691530,
+      "images": [
+        {
+          "id": 691530,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/691530/catalog-image/64fa0b68-550f-4fe3-8508-10803b7722c0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/691530/catalog-image/64fa0b68-550f-4fe3-8508-10803b7722c0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/691530/catalog-image/64fa0b68-550f-4fe3-8508-10803b7722c0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/691530/catalog-image/64fa0b68-550f-4fe3-8508-10803b7722c0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/691530/catalog-image/64fa0b68-550f-4fe3-8508-10803b7722c0.png",
+          "position": 1
+        },
+        {
+          "id": 691530,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/691530/ad5939bd-3af8-47db-8cc5-ef64cbff9c9a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/691530/ad5939bd-3af8-47db-8cc5-ef64cbff9c9a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/691530/ad5939bd-3af8-47db-8cc5-ef64cbff9c9a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/691530/ad5939bd-3af8-47db-8cc5-ef64cbff9c9a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/691530/ad5939bd-3af8-47db-8cc5-ef64cbff9c9a.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Напиток на овсяной основе ОВСЯША Миндальный 1,5%, 200мл",
+      "prices": {
+        "cost": 3999,
+        "costRegular": 5499,
+        "discount": 1500,
+        "discountPercentage": 27,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 3999,
+        "priceRegular": 5499
+      },
+      "slug": "napitok-mindalnyjj-na-ovsyanojj-osnove-15-rossiya-200ml",
+      "storeId": 291,
+      "weight": {
+        "gross": 220,
+        "net": 0,
+        "package": "200мл"
+      }
+    },
+    {
+      "categoryId": 754,
+      "count": 70,
+      "id": 296108,
+      "images": [
+        {
+          "id": 296108,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/296108/catalog-image/28ad5698-2d3c-4c39-b2d3-8bca7f03be3b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/296108/catalog-image/28ad5698-2d3c-4c39-b2d3-8bca7f03be3b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/296108/catalog-image/28ad5698-2d3c-4c39-b2d3-8bca7f03be3b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/296108/catalog-image/28ad5698-2d3c-4c39-b2d3-8bca7f03be3b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/296108/catalog-image/28ad5698-2d3c-4c39-b2d3-8bca7f03be3b.png",
+          "position": 1
+        },
+        {
+          "id": 296108,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/296108/2bdb7db8-f99d-4c56-8725-d4b33db87d5a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/296108/2bdb7db8-f99d-4c56-8725-d4b33db87d5a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/296108/2bdb7db8-f99d-4c56-8725-d4b33db87d5a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/296108/2bdb7db8-f99d-4c56-8725-d4b33db87d5a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/296108/2bdb7db8-f99d-4c56-8725-d4b33db87d5a.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Сосиски БЛИЖНИЕ ГОРКИ Сливочные, 450г",
+      "prices": {
+        "cost": 25499,
+        "costRegular": 52399,
+        "discount": 26900,
+        "discountPercentage": 51,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 25499,
+        "priceRegular": 52399
+      },
+      "slug": "sosiski-slivochnye-gost-v-co-gaz-rossiya-450g",
+      "storeId": 291,
+      "weight": {
+        "gross": 460,
+        "net": 0,
+        "package": "450г"
+      }
+    },
+    {
+      "categoryId": 4,
+      "count": 100,
+      "id": 611389,
+      "images": [
+        {
+          "id": 611389,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/611389/catalog-image/792084d4-57b0-4da4-b18f-b4fb5210a329.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/611389/catalog-image/792084d4-57b0-4da4-b18f-b4fb5210a329.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/611389/catalog-image/792084d4-57b0-4da4-b18f-b4fb5210a329.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/611389/catalog-image/792084d4-57b0-4da4-b18f-b4fb5210a329.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/611389/catalog-image/792084d4-57b0-4da4-b18f-b4fb5210a329.png",
+          "position": 1
+        },
+        {
+          "id": 611389,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/611389/catalog-image/e8873252-007d-46a1-a2c4-a14156c5720c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/611389/catalog-image/e8873252-007d-46a1-a2c4-a14156c5720c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/611389/catalog-image/e8873252-007d-46a1-a2c4-a14156c5720c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/611389/catalog-image/e8873252-007d-46a1-a2c4-a14156c5720c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/611389/catalog-image/e8873252-007d-46a1-a2c4-a14156c5720c.png",
+          "position": 2
+        },
+        {
+          "id": 611389,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/611389/catalog-image/822bc871-058b-4f78-b7f8-481b971acf92.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/611389/catalog-image/822bc871-058b-4f78-b7f8-481b971acf92.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/611389/catalog-image/822bc871-058b-4f78-b7f8-481b971acf92.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/611389/catalog-image/822bc871-058b-4f78-b7f8-481b971acf92.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/611389/catalog-image/822bc871-058b-4f78-b7f8-481b971acf92.png",
+          "position": 3
+        }
+      ],
+      "isWeight": false,
+      "name": "Напиток энергетический ADRENALINE Rush Zero Silver тонизирующий газированный, без сахара, 0.449л",
+      "prices": {
+        "cost": 12799,
+        "costRegular": 13499,
+        "discount": 700,
+        "discountPercentage": 5,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 12799,
+        "priceRegular": 13499
+      },
+      "slug": "napitok-bezalkogolnyjj-rush-zero-silver-toniz-energet-gaz-zhb-rossiya-0449l",
+      "storeId": 291,
+      "weight": {
+        "gross": 465,
+        "net": 0,
+        "package": "0.449L"
+      }
+    },
+    {
+      "categoryId": 1439,
+      "count": 5,
+      "id": 683776,
+      "images": [
+        {
+          "id": 683776,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/683776/6120caac-0375-4b4d-86e3-1bca2372e141.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/683776/6120caac-0375-4b4d-86e3-1bca2372e141.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/683776/6120caac-0375-4b4d-86e3-1bca2372e141.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/683776/6120caac-0375-4b4d-86e3-1bca2372e141.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/683776/6120caac-0375-4b4d-86e3-1bca2372e141.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Акустическая система LENTEL, Арт. AP-W108U",
+      "prices": {
+        "cost": 526399,
+        "costRegular": 526399,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 526399,
+        "priceRegular": 526399
+      },
+      "slug": "akusticheskaya-sistema-ap-w108u-kitajj",
+      "storeId": 291,
+      "weight": {
+        "gross": 2333,
+        "net": 0,
+        "package": ""
+      }
+    },
+    {
+      "categoryId": 2,
+      "count": 138,
+      "id": 528571,
+      "images": [
+        {
+          "id": 528571,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/528571/4b70a3ca-1c7a-4561-b3a0-3121e00b05d9.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/528571/4b70a3ca-1c7a-4561-b3a0-3121e00b05d9.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/528571/4b70a3ca-1c7a-4561-b3a0-3121e00b05d9.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/528571/4b70a3ca-1c7a-4561-b3a0-3121e00b05d9.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/528571/4b70a3ca-1c7a-4561-b3a0-3121e00b05d9.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Сыр BONVIDA Для пиццы Моцарелла, без змж, 400г",
+      "prices": {
+        "cost": 33399,
+        "costRegular": 39299,
+        "discount": 5900,
+        "discountPercentage": 15,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 33399,
+        "priceRegular": 39299
+      },
+      "slug": "syr-mocarella-bez-zmzh-rossiya-400g",
+      "storeId": 291,
+      "weight": {
+        "gross": 405,
+        "net": 0,
+        "package": "400г"
+      }
+    },
+    {
+      "categoryId": 3,
+      "count": 102,
+      "id": 577029,
+      "images": [
+        {
+          "id": 577029,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/577029/catalog-image/ccc13a5f-4256-440c-adc3-92256f2841ae.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/577029/catalog-image/ccc13a5f-4256-440c-adc3-92256f2841ae.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/577029/catalog-image/ccc13a5f-4256-440c-adc3-92256f2841ae.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/577029/catalog-image/ccc13a5f-4256-440c-adc3-92256f2841ae.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/577029/catalog-image/ccc13a5f-4256-440c-adc3-92256f2841ae.png",
+          "position": 1
+        },
+        {
+          "id": 577029,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/577029/catalog-image/58939ad7-c0ce-426f-8a8a-a17fd3f7c026.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/577029/catalog-image/58939ad7-c0ce-426f-8a8a-a17fd3f7c026.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/577029/catalog-image/58939ad7-c0ce-426f-8a8a-a17fd3f7c026.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/577029/catalog-image/58939ad7-c0ce-426f-8a8a-a17fd3f7c026.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/577029/catalog-image/58939ad7-c0ce-426f-8a8a-a17fd3f7c026.png",
+          "position": 2
+        },
+        {
+          "id": 577029,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/577029/catalog-image/6933399c-c1f5-4da3-b951-81ce96cb22ed.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/577029/catalog-image/6933399c-c1f5-4da3-b951-81ce96cb22ed.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/577029/catalog-image/6933399c-c1f5-4da3-b951-81ce96cb22ed.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/577029/catalog-image/6933399c-c1f5-4da3-b951-81ce96cb22ed.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/577029/catalog-image/6933399c-c1f5-4da3-b951-81ce96cb22ed.png",
+          "position": 3
+        },
+        {
+          "id": 577029,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/577029/catalog-image/40294517-9a14-42f1-be2c-323ba5457dcf.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/577029/catalog-image/40294517-9a14-42f1-be2c-323ba5457dcf.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/577029/catalog-image/40294517-9a14-42f1-be2c-323ba5457dcf.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/577029/catalog-image/40294517-9a14-42f1-be2c-323ba5457dcf.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/577029/catalog-image/40294517-9a14-42f1-be2c-323ba5457dcf.png",
+          "position": 4
+        },
+        {
+          "id": 577029,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/577029/catalog-image/0616473a-c42e-4b0e-a7f4-f6d6557f78d0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/577029/catalog-image/0616473a-c42e-4b0e-a7f4-f6d6557f78d0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/577029/catalog-image/0616473a-c42e-4b0e-a7f4-f6d6557f78d0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/577029/catalog-image/0616473a-c42e-4b0e-a7f4-f6d6557f78d0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/577029/catalog-image/0616473a-c42e-4b0e-a7f4-f6d6557f78d0.png",
+          "position": 5
+        }
+      ],
+      "isWeight": false,
+      "name": "Пудинг EHRMANN High Protein обогащенный белком со вкусом ванили 1,5%, 200г",
+      "prices": {
+        "cost": 15299,
+        "costRegular": 15299,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 15299,
+        "priceRegular": 15299
+      },
+      "slug": "puding-hyper-high-protein-vysokoproteinovyjj-so-vkusom-vanili-15-rossiya-200g",
+      "storeId": 291,
+      "weight": {
+        "gross": 211,
+        "net": 0,
+        "package": "200г"
+      }
+    },
+    {
+      "categoryId": 25,
+      "count": 79,
+      "id": 611514,
+      "images": [
+        {
+          "id": 611514,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/611514/a01403e9-60d6-49a9-8cbd-7cadff1be564.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/611514/a01403e9-60d6-49a9-8cbd-7cadff1be564.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/611514/a01403e9-60d6-49a9-8cbd-7cadff1be564.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/611514/a01403e9-60d6-49a9-8cbd-7cadff1be564.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/611514/a01403e9-60d6-49a9-8cbd-7cadff1be564.png",
+          "position": 1
+        },
+        {
+          "id": 611514,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/611514/11d75557-bcc6-4f94-8c83-43d7b96adda1.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/611514/11d75557-bcc6-4f94-8c83-43d7b96adda1.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/611514/11d75557-bcc6-4f94-8c83-43d7b96adda1.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/611514/11d75557-bcc6-4f94-8c83-43d7b96adda1.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/611514/11d75557-bcc6-4f94-8c83-43d7b96adda1.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Макароны MALTAGLIATI Capellini № 002, 450г",
+      "prices": {
+        "cost": 8799,
+        "costRegular": 12099,
+        "discount": 3300,
+        "discountPercentage": 27,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 8799,
+        "priceRegular": 12099
+      },
+      "slug": "makarony-kapellini-2-rossiya-450g",
+      "storeId": 291,
+      "weight": {
+        "gross": 456,
+        "net": 0,
+        "package": "450г"
+      }
+    },
+    {
+      "categoryId": 165,
+      "count": 5,
+      "id": 317814,
+      "images": [
+        {
+          "id": 317814,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/317814/afccbc82-2d0e-42e0-8b86-36ee02f7883d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/317814/afccbc82-2d0e-42e0-8b86-36ee02f7883d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/317814/afccbc82-2d0e-42e0-8b86-36ee02f7883d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/317814/afccbc82-2d0e-42e0-8b86-36ee02f7883d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/317814/afccbc82-2d0e-42e0-8b86-36ee02f7883d.png",
+          "position": 1
+        },
+        {
+          "id": 317814,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/317814/b57533a7-776e-4fbe-8cff-edb393340dbb.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/317814/b57533a7-776e-4fbe-8cff-edb393340dbb.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/317814/b57533a7-776e-4fbe-8cff-edb393340dbb.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/317814/b57533a7-776e-4fbe-8cff-edb393340dbb.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/317814/b57533a7-776e-4fbe-8cff-edb393340dbb.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Хлебцы рисовые DR KORNER с витаминами, 100г",
+      "prices": {
+        "cost": 11799,
+        "costRegular": 11799,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 11799,
+        "priceRegular": 11799
+      },
+      "slug": "hlebcy-risovye-s-vitaminami-rossiya-100g",
+      "storeId": 291,
+      "weight": {
+        "gross": 104,
+        "net": 0,
+        "package": "100г"
+      }
+    },
+    {
+      "categoryId": 1028,
+      "count": 10,
+      "id": 709036,
+      "images": [
+        {
+          "id": 709036,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/709036/295a2a2f-0f56-4edd-abe5-d7774f3d3ad5.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/709036/295a2a2f-0f56-4edd-abe5-d7774f3d3ad5.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/709036/295a2a2f-0f56-4edd-abe5-d7774f3d3ad5.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/709036/295a2a2f-0f56-4edd-abe5-d7774f3d3ad5.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/709036/295a2a2f-0f56-4edd-abe5-d7774f3d3ad5.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Шоколад горький GALLARDO с начинкой со вкусом апельсина, 80г",
+      "prices": {
+        "cost": 15999,
+        "costRegular": 20899,
+        "discount": 4900,
+        "discountPercentage": 23,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 15999,
+        "priceRegular": 20899
+      },
+      "slug": "shokolad-gorkijj-s-nach-so-vk-apelsina-iran-80g",
+      "storeId": 291,
+      "weight": {
+        "gross": 90,
+        "net": 0,
+        "package": "80г"
+      }
+    },
+    {
+      "categoryId": 25,
+      "count": 44,
+      "id": 527722,
+      "images": [
+        {
+          "id": 527722,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/527722/89981d62-e75b-4720-a6d6-cf450c2ab12d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/527722/89981d62-e75b-4720-a6d6-cf450c2ab12d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/527722/89981d62-e75b-4720-a6d6-cf450c2ab12d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/527722/89981d62-e75b-4720-a6d6-cf450c2ab12d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/527722/89981d62-e75b-4720-a6d6-cf450c2ab12d.png",
+          "position": 1
+        },
+        {
+          "id": 527722,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/527722/467fe42b-7ee7-4ed8-adf2-0846852ba8cf.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/527722/467fe42b-7ee7-4ed8-adf2-0846852ba8cf.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/527722/467fe42b-7ee7-4ed8-adf2-0846852ba8cf.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/527722/467fe42b-7ee7-4ed8-adf2-0846852ba8cf.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/527722/467fe42b-7ee7-4ed8-adf2-0846852ba8cf.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Молоко кокосовое AROY-D 17-19%, 500мл",
+      "prices": {
+        "cost": 26899,
+        "costRegular": 33999,
+        "discount": 7100,
+        "discountPercentage": 21,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 26899,
+        "priceRegular": 33999
+      },
+      "slug": "myakot-kokosovogo-oreha-pererabotannaya-17-19-indoneziya-500ml",
+      "storeId": 291,
+      "weight": {
+        "gross": 520,
+        "net": 0,
+        "package": "500мл"
+      }
+    },
+    {
+      "categoryId": 1731,
+      "count": 28,
+      "id": 558618,
+      "images": [
+        {
+          "id": 558618,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/558618/b8d3fb2c-c45d-4275-b512-62a3d4262ba9.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/558618/b8d3fb2c-c45d-4275-b512-62a3d4262ba9.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/558618/b8d3fb2c-c45d-4275-b512-62a3d4262ba9.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/558618/b8d3fb2c-c45d-4275-b512-62a3d4262ba9.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/558618/b8d3fb2c-c45d-4275-b512-62a3d4262ba9.png",
+          "position": 1
+        },
+        {
+          "id": 558618,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/558618/a3a9d665-44ac-4447-a108-e7f5f8115e8f.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/558618/a3a9d665-44ac-4447-a108-e7f5f8115e8f.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/558618/a3a9d665-44ac-4447-a108-e7f5f8115e8f.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/558618/a3a9d665-44ac-4447-a108-e7f5f8115e8f.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/558618/a3a9d665-44ac-4447-a108-e7f5f8115e8f.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Семена ГАВРИШ Семена от автора, Огурец Гирлянда F1, Арт. 10003758, 10шт",
+      "prices": {
+        "cost": 12099,
+        "costRegular": 12099,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 12099,
+        "priceRegular": 12099
+      },
+      "slug": "semena-ogurec-girlyanda-f1-avtor-10003758-rossiya-10sht",
+      "storeId": 291,
+      "weight": {
+        "gross": 4,
+        "net": 0,
+        "package": "10шт"
+      }
+    },
+    {
+      "categoryId": 2,
+      "count": 13,
+      "id": 467229,
+      "images": [
+        {
+          "id": 467229,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/467229/9578d9cd-c6b1-42b0-9a49-68a22f45f906.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/467229/9578d9cd-c6b1-42b0-9a49-68a22f45f906.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/467229/9578d9cd-c6b1-42b0-9a49-68a22f45f906.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/467229/9578d9cd-c6b1-42b0-9a49-68a22f45f906.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/467229/9578d9cd-c6b1-42b0-9a49-68a22f45f906.png",
+          "position": 1
+        },
+        {
+          "id": 467229,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/467229/3cfcf490d0c0c0c0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/467229/3cfcf490d0c0c0c0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/467229/3cfcf490d0c0c0c0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/467229/3cfcf490d0c0c0c0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/467229/3cfcf490d0c0c0c0.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Творог мягкий СВИТЛОГОРЬЕ 4%, без змж, 400г",
+      "prices": {
+        "cost": 16199,
+        "costRegular": 20299,
+        "discount": 4100,
+        "discountPercentage": 20,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 16199,
+        "priceRegular": 20299
+      },
+      "slug": "tvorog-myagkijj-4-bez-zmzh-belarus-400g",
+      "storeId": 291,
+      "weight": {
+        "gross": 430,
+        "net": 0,
+        "package": "400г"
+      }
+    },
+    {
+      "categoryId": 18134,
+      "count": 3,
+      "id": 571757,
+      "images": [
+        {
+          "id": 571757,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571757/f934f072-6701-4fd4-afd9-fa2f172eff30.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571757/f934f072-6701-4fd4-afd9-fa2f172eff30.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571757/f934f072-6701-4fd4-afd9-fa2f172eff30.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571757/f934f072-6701-4fd4-afd9-fa2f172eff30.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571757/f934f072-6701-4fd4-afd9-fa2f172eff30.png",
+          "position": 1
+        },
+        {
+          "id": 571757,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/571757/d87f7e86-ca11-4e37-860e-7d89aec379cc.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/571757/d87f7e86-ca11-4e37-860e-7d89aec379cc.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/571757/d87f7e86-ca11-4e37-860e-7d89aec379cc.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/571757/d87f7e86-ca11-4e37-860e-7d89aec379cc.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/571757/d87f7e86-ca11-4e37-860e-7d89aec379cc.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Корм сухой для взрослых кошек МИРАТОРГ Winner Meat из ароматной курочки, старше 1 года, 750г",
+      "prices": {
+        "cost": 30899,
+        "costRegular": 39299,
+        "discount": 8400,
+        "discountPercentage": 21,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 30899,
+        "priceRegular": 39299
+      },
+      "slug": "korm-dvzrkoshek-winner-meat-starshe-1-goda-iz-aromatnojj-kurochki-rossiya-750g",
+      "storeId": 291,
+      "weight": {
+        "gross": 767,
+        "net": 0,
+        "package": "750г"
+      }
+    },
+    {
+      "categoryId": 2,
+      "count": 66,
+      "id": 507195,
+      "images": [
+        {
+          "id": 507195,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/507195/catalog-image/d7b614ff-a875-4383-8e68-5018fc1ef3c8.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/507195/catalog-image/d7b614ff-a875-4383-8e68-5018fc1ef3c8.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/507195/catalog-image/d7b614ff-a875-4383-8e68-5018fc1ef3c8.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/507195/catalog-image/d7b614ff-a875-4383-8e68-5018fc1ef3c8.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/507195/catalog-image/d7b614ff-a875-4383-8e68-5018fc1ef3c8.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Сыр ЛЕНТА Пармезан тертый, без змж, 150г",
+      "prices": {
+        "cost": 24999,
+        "costRegular": 33999,
+        "discount": 9000,
+        "discountPercentage": 26,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 24999,
+        "priceRegular": 33999
+      },
+      "slug": "syr-parmezan-tertyjj-bez-zmzh-rossiya-150g",
+      "storeId": 291,
+      "weight": {
+        "gross": 155,
+        "net": 0,
+        "package": "150г"
+      }
+    },
+    {
+      "categoryId": 1419,
+      "count": 5,
+      "id": 566493,
+      "images": [
+        {
+          "id": 566493,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/566493/60972aed-e9c5-4fc6-ac77-66f01b2673d7.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/566493/60972aed-e9c5-4fc6-ac77-66f01b2673d7.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/566493/60972aed-e9c5-4fc6-ac77-66f01b2673d7.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/566493/60972aed-e9c5-4fc6-ac77-66f01b2673d7.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/566493/60972aed-e9c5-4fc6-ac77-66f01b2673d7.png",
+          "position": 1
+        },
+        {
+          "id": 566493,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/566493/50330722-9c47-4638-8625-6b787c047c8c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/566493/50330722-9c47-4638-8625-6b787c047c8c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/566493/50330722-9c47-4638-8625-6b787c047c8c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/566493/50330722-9c47-4638-8625-6b787c047c8c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/566493/50330722-9c47-4638-8625-6b787c047c8c.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Роллы древесные для розжига ИМИДЖ, 5шт",
+      "prices": {
+        "cost": 9699,
+        "costRegular": 16899,
+        "discount": 7200,
+        "discountPercentage": 43,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 9699,
+        "priceRegular": 16899
+      },
+      "slug": "rolly-drozzhiga-rossiya-5sht",
+      "storeId": 291,
+      "weight": {
+        "gross": 85,
+        "net": 0,
+        "package": "5шт"
+      }
+    },
+    {
+      "categoryId": 74,
+      "count": 28,
+      "id": 594430,
+      "images": [
+        {
+          "id": 594430,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/594430/95e82014-52a5-4c2b-8f12-02bc9ef368ac.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/594430/95e82014-52a5-4c2b-8f12-02bc9ef368ac.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/594430/95e82014-52a5-4c2b-8f12-02bc9ef368ac.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/594430/95e82014-52a5-4c2b-8f12-02bc9ef368ac.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/594430/95e82014-52a5-4c2b-8f12-02bc9ef368ac.png",
+          "position": 1
+        },
+        {
+          "id": 594430,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/594430/7ac1d556-a531-4c35-ac29-db73eb2cac0c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/594430/7ac1d556-a531-4c35-ac29-db73eb2cac0c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/594430/7ac1d556-a531-4c35-ac29-db73eb2cac0c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/594430/7ac1d556-a531-4c35-ac29-db73eb2cac0c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/594430/7ac1d556-a531-4c35-ac29-db73eb2cac0c.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Драже освежающие FRESHBOX Энерджи, без сахара, 35г",
+      "prices": {
+        "cost": 25699,
+        "costRegular": 25699,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 25699,
+        "priceRegular": 25699
+      },
+      "slug": "drazhe-enerdzhi-osvezhayushchie-bsah-kitajj-35g",
+      "storeId": 291,
+      "weight": {
+        "gross": 61,
+        "net": 0,
+        "package": "35г"
+      }
+    },
+    {
+      "categoryId": 754,
+      "count": 1,
+      "id": 426406,
+      "images": [
+        {
+          "id": 426406,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/426406/c4bef8f5-5358-4da6-9b9d-9ff466e4a3c4.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/426406/c4bef8f5-5358-4da6-9b9d-9ff466e4a3c4.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/426406/c4bef8f5-5358-4da6-9b9d-9ff466e4a3c4.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/426406/c4bef8f5-5358-4da6-9b9d-9ff466e4a3c4.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/426406/c4bef8f5-5358-4da6-9b9d-9ff466e4a3c4.png",
+          "position": 1
+        },
+        {
+          "id": 426406,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/426406/3432e243-4074-4942-b10a-e2ca67d4cbca.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/426406/3432e243-4074-4942-b10a-e2ca67d4cbca.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/426406/3432e243-4074-4942-b10a-e2ca67d4cbca.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/426406/3432e243-4074-4942-b10a-e2ca67d4cbca.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/426406/3432e243-4074-4942-b10a-e2ca67d4cbca.png",
+          "position": 2
+        },
+        {
+          "id": 426406,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/426406/56ad7aa8-0a2d-439d-a2e9-433c4a9743d9.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/426406/56ad7aa8-0a2d-439d-a2e9-433c4a9743d9.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/426406/56ad7aa8-0a2d-439d-a2e9-433c4a9743d9.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/426406/56ad7aa8-0a2d-439d-a2e9-433c4a9743d9.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/426406/56ad7aa8-0a2d-439d-a2e9-433c4a9743d9.png",
+          "position": 3
+        },
+        {
+          "id": 426406,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/426406/fdba5252-b1cc-41ff-a06c-56c3dec4c8b4.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/426406/fdba5252-b1cc-41ff-a06c-56c3dec4c8b4.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/426406/fdba5252-b1cc-41ff-a06c-56c3dec4c8b4.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/426406/fdba5252-b1cc-41ff-a06c-56c3dec4c8b4.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/426406/fdba5252-b1cc-41ff-a06c-56c3dec4c8b4.png",
+          "position": 4
+        },
+        {
+          "id": 426406,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/426406/f2729b17-ac56-4931-b0fb-cb1349fc19e0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/426406/f2729b17-ac56-4931-b0fb-cb1349fc19e0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/426406/f2729b17-ac56-4931-b0fb-cb1349fc19e0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/426406/f2729b17-ac56-4931-b0fb-cb1349fc19e0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/426406/f2729b17-ac56-4931-b0fb-cb1349fc19e0.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Хамон сыровяленый CASADEMONT Serrano, нарезка, 100г",
+      "prices": {
+        "cost": 68899,
+        "costRegular": 87399,
+        "discount": 18500,
+        "discountPercentage": 21,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 68899,
+        "priceRegular": 87399
+      },
+      "slug": "hamon-serrano-sv-za-nar-rossiya-100g",
+      "storeId": 291,
+      "weight": {
+        "gross": 126,
+        "net": 0,
+        "package": "100г"
+      }
+    },
+    {
+      "categoryId": 3509,
+      "count": 12,
+      "id": 584335,
+      "images": [
+        {
+          "id": 584335,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/584335/56a07112-9e7f-425b-a71d-904f95614112.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/584335/56a07112-9e7f-425b-a71d-904f95614112.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/584335/56a07112-9e7f-425b-a71d-904f95614112.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/584335/56a07112-9e7f-425b-a71d-904f95614112.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/584335/56a07112-9e7f-425b-a71d-904f95614112.png",
+          "position": 1
+        },
+        {
+          "id": 584335,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/584335/3599ca56-849b-438e-890e-c1a0f69fed6d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/584335/3599ca56-849b-438e-890e-c1a0f69fed6d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/584335/3599ca56-849b-438e-890e-c1a0f69fed6d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/584335/3599ca56-849b-438e-890e-c1a0f69fed6d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/584335/3599ca56-849b-438e-890e-c1a0f69fed6d.png",
+          "position": 2
+        },
+        {
+          "id": 584335,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/584335/d0a0c75e-e3e5-464f-a7ae-968d96410ee2.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/584335/d0a0c75e-e3e5-464f-a7ae-968d96410ee2.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/584335/d0a0c75e-e3e5-464f-a7ae-968d96410ee2.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/584335/d0a0c75e-e3e5-464f-a7ae-968d96410ee2.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/584335/d0a0c75e-e3e5-464f-a7ae-968d96410ee2.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Краска для волос PREFERENCE Ультра-платиновый, 242г",
+      "prices": {
+        "cost": 128699,
+        "costRegular": 142199,
+        "discount": 13500,
+        "discountPercentage": 9,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 128699,
+        "priceRegular": 142199
+      },
+      "slug": "kraska-dlya-volos-ultra-platinovyjj-belgiya-242g",
+      "storeId": 291,
+      "weight": {
+        "gross": 242,
+        "net": 0,
+        "package": "242г"
+      }
+    },
+    {
+      "categoryId": 4,
+      "count": 8,
+      "id": 548817,
+      "images": [
+        {
+          "id": 548817,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/548817/62cd110a-b2cb-437d-a9af-afc7e454f4fa.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/548817/62cd110a-b2cb-437d-a9af-afc7e454f4fa.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/548817/62cd110a-b2cb-437d-a9af-afc7e454f4fa.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/548817/62cd110a-b2cb-437d-a9af-afc7e454f4fa.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/548817/62cd110a-b2cb-437d-a9af-afc7e454f4fa.png",
+          "position": 1
+        },
+        {
+          "id": 548817,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/548817/1cfd2861-9a32-4040-85dd-2b42fe38a571.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/548817/1cfd2861-9a32-4040-85dd-2b42fe38a571.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/548817/1cfd2861-9a32-4040-85dd-2b42fe38a571.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/548817/1cfd2861-9a32-4040-85dd-2b42fe38a571.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/548817/1cfd2861-9a32-4040-85dd-2b42fe38a571.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Сок САДЫ ПРИДОНЬЯ Зеленое яблоко осветленный восстановленный, с 4 месяцев, 200мл",
+      "prices": {
+        "cost": 3799,
+        "costRegular": 5999,
+        "discount": 2200,
+        "discountPercentage": 37,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 3799,
+        "priceRegular": 5999
+      },
+      "slug": "dp-sok-yablochnyjj-iz-zelenyh-yablok-osvet-vosst-s-4-mes-st-rossiya-200ml",
+      "storeId": 291,
+      "weight": {
+        "gross": 387,
+        "net": 0,
+        "package": "200мл"
+      }
+    },
+    {
+      "categoryId": 754,
+      "count": 8,
+      "id": 526780,
+      "images": [
+        {
+          "id": 526780,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/526780/29bf3197-4fd3-4c43-a7b4-0e3a24786e01.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/526780/29bf3197-4fd3-4c43-a7b4-0e3a24786e01.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/526780/29bf3197-4fd3-4c43-a7b4-0e3a24786e01.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/526780/29bf3197-4fd3-4c43-a7b4-0e3a24786e01.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/526780/29bf3197-4fd3-4c43-a7b4-0e3a24786e01.png",
+          "position": 1
+        },
+        {
+          "id": 526780,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/526780/39a10212-380c-4eee-a9bf-e3bd4272d5fc.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/526780/39a10212-380c-4eee-a9bf-e3bd4272d5fc.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/526780/39a10212-380c-4eee-a9bf-e3bd4272d5fc.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/526780/39a10212-380c-4eee-a9bf-e3bd4272d5fc.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/526780/39a10212-380c-4eee-a9bf-e3bd4272d5fc.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Грудинка копчено-вареная ЛЕНТА Нежная, нарезка, 150г",
+      "prices": {
+        "cost": 15999,
+        "costRegular": 18499,
+        "discount": 2500,
+        "discountPercentage": 14,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 15999,
+        "priceRegular": 18499
+      },
+      "slug": "grudinka-nezhnaya-kv-vu-nar-rossiya-150g",
+      "storeId": 291,
+      "weight": {
+        "gross": 170,
+        "net": 0,
+        "package": "150г"
+      }
+    },
+    {
+      "categoryId": 77,
+      "count": 6,
+      "id": 501663,
+      "images": [
+        {
+          "id": 501663,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/501663/8ea910e6-1dd2-4435-aa70-439750f2723e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/501663/8ea910e6-1dd2-4435-aa70-439750f2723e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/501663/8ea910e6-1dd2-4435-aa70-439750f2723e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/501663/8ea910e6-1dd2-4435-aa70-439750f2723e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/501663/8ea910e6-1dd2-4435-aa70-439750f2723e.png",
+          "position": 1
+        },
+        {
+          "id": 501663,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/501663/40efdc2a-f15b-4d3a-8c71-79a5566b1a7e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/501663/40efdc2a-f15b-4d3a-8c71-79a5566b1a7e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/501663/40efdc2a-f15b-4d3a-8c71-79a5566b1a7e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/501663/40efdc2a-f15b-4d3a-8c71-79a5566b1a7e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/501663/40efdc2a-f15b-4d3a-8c71-79a5566b1a7e.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Тесто бездрожжевое BONVIDA слоеное, 1500г",
+      "prices": {
+        "cost": 26799,
+        "costRegular": 30999,
+        "discount": 4200,
+        "discountPercentage": 14,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 26799,
+        "priceRegular": 30999
+      },
+      "slug": "testo-sloenoe-bezdrozhzhevoe-rossiya-1500g",
+      "storeId": 291,
+      "weight": {
+        "gross": 1510,
+        "net": 0,
+        "package": "1500г"
+      }
+    },
+    {
+      "categoryId": 144,
+      "count": 4,
+      "id": 30497,
+      "images": [
+        {
+          "id": 30497,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/30497/cd6918b5-bd19-4b58-9e56-572e867b4c58.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/30497/cd6918b5-bd19-4b58-9e56-572e867b4c58.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/30497/cd6918b5-bd19-4b58-9e56-572e867b4c58.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/30497/cd6918b5-bd19-4b58-9e56-572e867b4c58.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/30497/cd6918b5-bd19-4b58-9e56-572e867b4c58.png",
+          "position": 1
+        },
+        {
+          "id": 30497,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/30497/d3bb6750-e28b-4118-a85a-a276457ab897.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/30497/d3bb6750-e28b-4118-a85a-a276457ab897.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/30497/d3bb6750-e28b-4118-a85a-a276457ab897.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/30497/d3bb6750-e28b-4118-a85a-a276457ab897.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/30497/d3bb6750-e28b-4118-a85a-a276457ab897.png",
+          "position": 3
+        }
+      ],
+      "isWeight": false,
+      "name": "Салат свежий Ромейн",
+      "prices": {
+        "cost": 21499,
+        "costRegular": 21499,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 21499,
+        "priceRegular": 21499
+      },
+      "slug": "salat-romejjn-svezhijj-1sht",
+      "storeId": 291,
+      "weight": {
+        "gross": 800,
+        "net": 0,
+        "package": "1шт"
+      }
+    },
+    {
+      "categoryId": 165,
+      "count": 150,
+      "id": 525775,
+      "images": [
+        {
+          "id": 525775,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/525775/bd5f069a-998f-49c2-a818-a564462e3f81.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/525775/bd5f069a-998f-49c2-a818-a564462e3f81.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/525775/bd5f069a-998f-49c2-a818-a564462e3f81.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/525775/bd5f069a-998f-49c2-a818-a564462e3f81.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/525775/bd5f069a-998f-49c2-a818-a564462e3f81.png",
+          "position": 1
+        },
+        {
+          "id": 525775,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/525775/3592f0d6-9ed2-480e-a20e-6a425360b22c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/525775/3592f0d6-9ed2-480e-a20e-6a425360b22c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/525775/3592f0d6-9ed2-480e-a20e-6a425360b22c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/525775/3592f0d6-9ed2-480e-a20e-6a425360b22c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/525775/3592f0d6-9ed2-480e-a20e-6a425360b22c.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Хлебушек Домашний бездрожжевой ЛЕНТА FRESH, 330г",
+      "prices": {
+        "cost": 8999,
+        "costRegular": 8999,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 8999,
+        "priceRegular": 8999
+      },
+      "slug": "hlebushek-domashnijj-bezdrozhzhevojj-zmp-rossiya-330g",
+      "storeId": 291,
+      "weight": {
+        "gross": 330,
+        "net": 0,
+        "package": "330г"
+      }
+    },
+    {
+      "categoryId": 1070,
+      "count": 9,
+      "id": 83370,
+      "images": [
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/4f7a9f5f-5e87-4a6c-ab20-c9c4e20acd66.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/4f7a9f5f-5e87-4a6c-ab20-c9c4e20acd66.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/4f7a9f5f-5e87-4a6c-ab20-c9c4e20acd66.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/4f7a9f5f-5e87-4a6c-ab20-c9c4e20acd66.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/4f7a9f5f-5e87-4a6c-ab20-c9c4e20acd66.png",
+          "position": 1
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/37200db3-dcc0-465b-8580-0c43e286085b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/37200db3-dcc0-465b-8580-0c43e286085b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/37200db3-dcc0-465b-8580-0c43e286085b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/37200db3-dcc0-465b-8580-0c43e286085b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/37200db3-dcc0-465b-8580-0c43e286085b.png",
+          "position": 2
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/35f18ef5-8246-4ae9-b060-87787ba1b8c5.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/35f18ef5-8246-4ae9-b060-87787ba1b8c5.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/35f18ef5-8246-4ae9-b060-87787ba1b8c5.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/35f18ef5-8246-4ae9-b060-87787ba1b8c5.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/35f18ef5-8246-4ae9-b060-87787ba1b8c5.png",
+          "position": 3
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/0d6c959f-8265-4955-9740-c9a698e45c89.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/0d6c959f-8265-4955-9740-c9a698e45c89.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/0d6c959f-8265-4955-9740-c9a698e45c89.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/0d6c959f-8265-4955-9740-c9a698e45c89.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/0d6c959f-8265-4955-9740-c9a698e45c89.png",
+          "position": 4
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/6deb36e7-4f48-4f22-b486-a5491056a15e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/6deb36e7-4f48-4f22-b486-a5491056a15e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/6deb36e7-4f48-4f22-b486-a5491056a15e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/6deb36e7-4f48-4f22-b486-a5491056a15e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/6deb36e7-4f48-4f22-b486-a5491056a15e.png",
+          "position": 5
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/58cc1de9-291a-4584-98a4-9ca0943ab527.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/58cc1de9-291a-4584-98a4-9ca0943ab527.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/58cc1de9-291a-4584-98a4-9ca0943ab527.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/58cc1de9-291a-4584-98a4-9ca0943ab527.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/58cc1de9-291a-4584-98a4-9ca0943ab527.png",
+          "position": 6
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/539d2ddb-6e94-4bfd-812e-2c8fa9c6e49a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/539d2ddb-6e94-4bfd-812e-2c8fa9c6e49a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/539d2ddb-6e94-4bfd-812e-2c8fa9c6e49a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/539d2ddb-6e94-4bfd-812e-2c8fa9c6e49a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/539d2ddb-6e94-4bfd-812e-2c8fa9c6e49a.png",
+          "position": 7
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/cf8bf865-aea4-431c-88ea-3966b4900e41.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/cf8bf865-aea4-431c-88ea-3966b4900e41.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/cf8bf865-aea4-431c-88ea-3966b4900e41.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/cf8bf865-aea4-431c-88ea-3966b4900e41.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/cf8bf865-aea4-431c-88ea-3966b4900e41.png",
+          "position": 8
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/84eadece-17c6-4d10-92f1-2bc571068a82.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/84eadece-17c6-4d10-92f1-2bc571068a82.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/84eadece-17c6-4d10-92f1-2bc571068a82.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/84eadece-17c6-4d10-92f1-2bc571068a82.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/84eadece-17c6-4d10-92f1-2bc571068a82.png",
+          "position": 9
+        },
+        {
+          "id": 83370,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/83370/catalog-image/630a2658-e2ab-46a7-b02f-dfba6d983398.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/83370/catalog-image/630a2658-e2ab-46a7-b02f-dfba6d983398.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/83370/catalog-image/630a2658-e2ab-46a7-b02f-dfba6d983398.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/83370/catalog-image/630a2658-e2ab-46a7-b02f-dfba6d983398.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/83370/catalog-image/630a2658-e2ab-46a7-b02f-dfba6d983398.png",
+          "position": 10
+        }
+      ],
+      "isWeight": false,
+      "name": "Стиральный порошок МИФ Морозная свежесть, автомат, 2кг",
+      "prices": {
+        "cost": 33399,
+        "costRegular": 41999,
+        "discount": 8600,
+        "discountPercentage": 20,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 33399,
+        "priceRegular": 41999
+      },
+      "slug": "stiralnyjj-poroshok-moroznaya-svezhest-dbel-avt-rossiya-2kg",
+      "storeId": 291,
+      "weight": {
+        "gross": 2024,
+        "net": 0,
+        "package": "2кг"
+      }
+    },
+    {
+      "categoryId": 77,
+      "count": 2,
+      "id": 662508,
+      "images": [
+        {
+          "id": 662508,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/662508/catalog-image/881297ee-2df3-47bf-a506-15f0181fc5f3.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/662508/catalog-image/881297ee-2df3-47bf-a506-15f0181fc5f3.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/662508/catalog-image/881297ee-2df3-47bf-a506-15f0181fc5f3.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/662508/catalog-image/881297ee-2df3-47bf-a506-15f0181fc5f3.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/662508/catalog-image/881297ee-2df3-47bf-a506-15f0181fc5f3.png",
+          "position": 1
+        },
+        {
+          "id": 662508,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/662508/catalog-image/cf681cb0-28d7-4b27-b0a9-875733fea013.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/662508/catalog-image/cf681cb0-28d7-4b27-b0a9-875733fea013.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/662508/catalog-image/cf681cb0-28d7-4b27-b0a9-875733fea013.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/662508/catalog-image/cf681cb0-28d7-4b27-b0a9-875733fea013.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/662508/catalog-image/cf681cb0-28d7-4b27-b0a9-875733fea013.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Наггетсы SИБИРСКАЯ КОЛЛЕКЦИЯ с сыром Чеддер, 220г",
+      "prices": {
+        "cost": 18099,
+        "costRegular": 27199,
+        "discount": 9100,
+        "discountPercentage": 33,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 18099,
+        "priceRegular": 27199
+      },
+      "slug": "naggetsy-s-syrom-chedder-zam-rossiya-220g",
+      "storeId": 291,
+      "weight": {
+        "gross": 225,
+        "net": 0,
+        "package": "220г"
+      }
+    },
+    {
+      "categoryId": 18134,
+      "count": 373,
+      "id": 544071,
+      "images": [
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/b1fe04c4-c3d8-4701-8e67-7ebe1ccfd7bf.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/b1fe04c4-c3d8-4701-8e67-7ebe1ccfd7bf.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/b1fe04c4-c3d8-4701-8e67-7ebe1ccfd7bf.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/b1fe04c4-c3d8-4701-8e67-7ebe1ccfd7bf.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/b1fe04c4-c3d8-4701-8e67-7ebe1ccfd7bf.png",
+          "position": 1
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/5e7d32b4-5710-4bf7-9d99-d399033593e9.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/5e7d32b4-5710-4bf7-9d99-d399033593e9.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/5e7d32b4-5710-4bf7-9d99-d399033593e9.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/5e7d32b4-5710-4bf7-9d99-d399033593e9.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/5e7d32b4-5710-4bf7-9d99-d399033593e9.png",
+          "position": 2
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/d92a1452-617c-41e7-a102-ef5200fc496f.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/d92a1452-617c-41e7-a102-ef5200fc496f.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/d92a1452-617c-41e7-a102-ef5200fc496f.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/d92a1452-617c-41e7-a102-ef5200fc496f.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/d92a1452-617c-41e7-a102-ef5200fc496f.png",
+          "position": 3
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/932f923f-a13b-42bb-a8cb-3e447eb78e27.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/932f923f-a13b-42bb-a8cb-3e447eb78e27.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/932f923f-a13b-42bb-a8cb-3e447eb78e27.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/932f923f-a13b-42bb-a8cb-3e447eb78e27.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/932f923f-a13b-42bb-a8cb-3e447eb78e27.png",
+          "position": 4
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/bb2ee697-a1ac-47e0-a5db-0bd65423982d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/bb2ee697-a1ac-47e0-a5db-0bd65423982d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/bb2ee697-a1ac-47e0-a5db-0bd65423982d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/bb2ee697-a1ac-47e0-a5db-0bd65423982d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/bb2ee697-a1ac-47e0-a5db-0bd65423982d.png",
+          "position": 5
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/a1e69fa1-0cfa-497d-914a-e034b347ed8f.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/a1e69fa1-0cfa-497d-914a-e034b347ed8f.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/a1e69fa1-0cfa-497d-914a-e034b347ed8f.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/a1e69fa1-0cfa-497d-914a-e034b347ed8f.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/a1e69fa1-0cfa-497d-914a-e034b347ed8f.png",
+          "position": 6
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/3f5936bb-0608-4442-a3af-dfe969ce53bd.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/3f5936bb-0608-4442-a3af-dfe969ce53bd.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/3f5936bb-0608-4442-a3af-dfe969ce53bd.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/3f5936bb-0608-4442-a3af-dfe969ce53bd.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/3f5936bb-0608-4442-a3af-dfe969ce53bd.png",
+          "position": 7
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/1e61f39e-fc81-494a-95e5-d1dabe45420b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/1e61f39e-fc81-494a-95e5-d1dabe45420b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/1e61f39e-fc81-494a-95e5-d1dabe45420b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/1e61f39e-fc81-494a-95e5-d1dabe45420b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/1e61f39e-fc81-494a-95e5-d1dabe45420b.png",
+          "position": 8
+        },
+        {
+          "id": 544071,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/544071/catalog-image/d9c362f7-b087-4f22-a253-b14fbf9d814b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/544071/catalog-image/d9c362f7-b087-4f22-a253-b14fbf9d814b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/544071/catalog-image/d9c362f7-b087-4f22-a253-b14fbf9d814b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/544071/catalog-image/d9c362f7-b087-4f22-a253-b14fbf9d814b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/544071/catalog-image/d9c362f7-b087-4f22-a253-b14fbf9d814b.png",
+          "position": 99
+        }
+      ],
+      "isWeight": false,
+      "name": "Корм влажный для взрослых собак CESAR жаркое с уткой в желе, 85г",
+      "prices": {
+        "cost": 4699,
+        "costRegular": 4999,
+        "discount": 300,
+        "discountPercentage": 6,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 4699,
+        "priceRegular": 4999
+      },
+      "slug": "korm-dvzrsobak-vseh-porod-zharkoe-s-utkojj-rossiya-85g",
+      "storeId": 291,
+      "weight": {
+        "gross": 85,
+        "net": 0,
+        "package": "85г"
+      }
+    },
+    {
+      "categoryId": 74,
+      "count": 29,
+      "id": 559943,
+      "images": [
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/924d3e2e-0743-47af-9ce8-17be76ebf4be.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/924d3e2e-0743-47af-9ce8-17be76ebf4be.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/924d3e2e-0743-47af-9ce8-17be76ebf4be.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/924d3e2e-0743-47af-9ce8-17be76ebf4be.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/924d3e2e-0743-47af-9ce8-17be76ebf4be.png",
+          "position": 1
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/845af98b-4288-4144-82bc-05dc72908cf3.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/845af98b-4288-4144-82bc-05dc72908cf3.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/845af98b-4288-4144-82bc-05dc72908cf3.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/845af98b-4288-4144-82bc-05dc72908cf3.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/845af98b-4288-4144-82bc-05dc72908cf3.png",
+          "position": 2
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/ac5db7db-ddd7-46a8-8d7d-1df654c14a42.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/ac5db7db-ddd7-46a8-8d7d-1df654c14a42.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/ac5db7db-ddd7-46a8-8d7d-1df654c14a42.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/ac5db7db-ddd7-46a8-8d7d-1df654c14a42.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/ac5db7db-ddd7-46a8-8d7d-1df654c14a42.png",
+          "position": 3
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/e2d3ff2c-10cc-43a2-a1ab-9965f50f8a4d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/e2d3ff2c-10cc-43a2-a1ab-9965f50f8a4d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/e2d3ff2c-10cc-43a2-a1ab-9965f50f8a4d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/e2d3ff2c-10cc-43a2-a1ab-9965f50f8a4d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/e2d3ff2c-10cc-43a2-a1ab-9965f50f8a4d.png",
+          "position": 4
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/3633c29b-d706-4d5a-92e6-7f2b85638eb4.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/3633c29b-d706-4d5a-92e6-7f2b85638eb4.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/3633c29b-d706-4d5a-92e6-7f2b85638eb4.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/3633c29b-d706-4d5a-92e6-7f2b85638eb4.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/3633c29b-d706-4d5a-92e6-7f2b85638eb4.png",
+          "position": 5
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/98aeb221-2876-4597-aece-10f4bf4b50c1.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/98aeb221-2876-4597-aece-10f4bf4b50c1.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/98aeb221-2876-4597-aece-10f4bf4b50c1.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/98aeb221-2876-4597-aece-10f4bf4b50c1.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/98aeb221-2876-4597-aece-10f4bf4b50c1.png",
+          "position": 6
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/b2766407-4126-40fc-9c85-5033e27415f0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/b2766407-4126-40fc-9c85-5033e27415f0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/b2766407-4126-40fc-9c85-5033e27415f0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/b2766407-4126-40fc-9c85-5033e27415f0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/b2766407-4126-40fc-9c85-5033e27415f0.png",
+          "position": 7
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/73366035-3088-4ecf-b7a5-416c0d6c192d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/73366035-3088-4ecf-b7a5-416c0d6c192d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/73366035-3088-4ecf-b7a5-416c0d6c192d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/73366035-3088-4ecf-b7a5-416c0d6c192d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/73366035-3088-4ecf-b7a5-416c0d6c192d.png",
+          "position": 8
+        },
+        {
+          "id": 559943,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/559943/fcc43198-7a3c-4607-95ff-989ccc516386.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/559943/fcc43198-7a3c-4607-95ff-989ccc516386.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/559943/fcc43198-7a3c-4607-95ff-989ccc516386.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/559943/fcc43198-7a3c-4607-95ff-989ccc516386.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/559943/fcc43198-7a3c-4607-95ff-989ccc516386.png",
+          "position": 9
+        }
+      ],
+      "isWeight": false,
+      "name": "Жевательная резинка ORBIT Сладкая мята, 13,6г",
+      "prices": {
+        "cost": 14899,
+        "costRegular": 25399,
+        "discount": 10500,
+        "discountPercentage": 41,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 14899,
+        "priceRegular": 25399
+      },
+      "slug": "zhevatelnaya-rezinka-sladkaya-myata-rossiya-5136g",
+      "storeId": 291,
+      "weight": {
+        "gross": 76,
+        "net": 0,
+        "package": "5*13,6г"
+      }
+    },
+    {
+      "categoryId": 1070,
+      "count": 7,
+      "id": 15271,
+      "images": [
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/08a5e1e8-e9aa-41d2-9761-f1ba5c069a13.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/08a5e1e8-e9aa-41d2-9761-f1ba5c069a13.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/08a5e1e8-e9aa-41d2-9761-f1ba5c069a13.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/08a5e1e8-e9aa-41d2-9761-f1ba5c069a13.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/08a5e1e8-e9aa-41d2-9761-f1ba5c069a13.png",
+          "position": 1
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/ff038fea-39f2-4caf-9ca4-9d249f5e49be.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/ff038fea-39f2-4caf-9ca4-9d249f5e49be.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/ff038fea-39f2-4caf-9ca4-9d249f5e49be.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/ff038fea-39f2-4caf-9ca4-9d249f5e49be.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/ff038fea-39f2-4caf-9ca4-9d249f5e49be.png",
+          "position": 2
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/cf1ef252-7150-48bb-90a2-558dee04e1fb.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/cf1ef252-7150-48bb-90a2-558dee04e1fb.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/cf1ef252-7150-48bb-90a2-558dee04e1fb.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/cf1ef252-7150-48bb-90a2-558dee04e1fb.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/cf1ef252-7150-48bb-90a2-558dee04e1fb.png",
+          "position": 3
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/9e311507-4341-48d1-85a2-fbdb8317ce96.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/9e311507-4341-48d1-85a2-fbdb8317ce96.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/9e311507-4341-48d1-85a2-fbdb8317ce96.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/9e311507-4341-48d1-85a2-fbdb8317ce96.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/9e311507-4341-48d1-85a2-fbdb8317ce96.png",
+          "position": 4
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/d5dc36c9-fadd-4168-8d6d-9b17b46e6eae.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/d5dc36c9-fadd-4168-8d6d-9b17b46e6eae.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/d5dc36c9-fadd-4168-8d6d-9b17b46e6eae.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/d5dc36c9-fadd-4168-8d6d-9b17b46e6eae.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/d5dc36c9-fadd-4168-8d6d-9b17b46e6eae.png",
+          "position": 5
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/4615b0e5-9ff1-427a-9490-6d3499203c34.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/4615b0e5-9ff1-427a-9490-6d3499203c34.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/4615b0e5-9ff1-427a-9490-6d3499203c34.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/4615b0e5-9ff1-427a-9490-6d3499203c34.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/4615b0e5-9ff1-427a-9490-6d3499203c34.png",
+          "position": 6
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/2d3f04e8-c078-4f84-a62a-19a84ed7ad2b.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/2d3f04e8-c078-4f84-a62a-19a84ed7ad2b.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/2d3f04e8-c078-4f84-a62a-19a84ed7ad2b.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/2d3f04e8-c078-4f84-a62a-19a84ed7ad2b.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/2d3f04e8-c078-4f84-a62a-19a84ed7ad2b.png",
+          "position": 7
+        },
+        {
+          "id": 15271,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/15271/catalog-image/32b4fd93-56aa-4fab-acff-542b3a6d7808.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/15271/catalog-image/32b4fd93-56aa-4fab-acff-542b3a6d7808.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/15271/catalog-image/32b4fd93-56aa-4fab-acff-542b3a6d7808.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/15271/catalog-image/32b4fd93-56aa-4fab-acff-542b3a6d7808.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/15271/catalog-image/32b4fd93-56aa-4fab-acff-542b3a6d7808.png",
+          "position": 8
+        }
+      ],
+      "isWeight": false,
+      "name": "Стиральный порошок TIDE Альпийская свежесть, автомат, 6кг",
+      "prices": {
+        "cost": 77299,
+        "costRegular": 141599,
+        "discount": 64300,
+        "discountPercentage": 45,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 77299,
+        "priceRegular": 141599
+      },
+      "slug": "stiralnyjj-poroshok-alpijjskaya-svezhest-dbel-avt-rossiya-6kg",
+      "storeId": 291,
+      "weight": {
+        "gross": 6038,
+        "net": 0,
+        "package": "6кг"
+      }
+    },
+    {
+      "categoryId": 18359,
+      "count": 10,
+      "id": 676892,
+      "images": [
+        {
+          "id": 676892,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/676892/bd6cf055-2ad1-4c8e-8ac8-ccf2d1427e83.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/676892/bd6cf055-2ad1-4c8e-8ac8-ccf2d1427e83.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/676892/bd6cf055-2ad1-4c8e-8ac8-ccf2d1427e83.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/676892/bd6cf055-2ad1-4c8e-8ac8-ccf2d1427e83.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/676892/bd6cf055-2ad1-4c8e-8ac8-ccf2d1427e83.png",
+          "position": 1
+        },
+        {
+          "id": 676892,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/676892/00ace74e-5ef4-4cbc-9e60-c9ba1127f0b1.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/676892/00ace74e-5ef4-4cbc-9e60-c9ba1127f0b1.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/676892/00ace74e-5ef4-4cbc-9e60-c9ba1127f0b1.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/676892/00ace74e-5ef4-4cbc-9e60-c9ba1127f0b1.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/676892/00ace74e-5ef4-4cbc-9e60-c9ba1127f0b1.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Перец красный 365 ДНЕЙ острый молотый, 15г",
+      "prices": {
+        "cost": 1799,
+        "costRegular": 1799,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 1799,
+        "priceRegular": 1799
+      },
+      "slug": "perec-krasnyjj-ostryjj-rossiya-15g",
+      "storeId": 291,
+      "weight": {
+        "gross": 17,
+        "net": 0,
+        "package": "15г"
+      }
+    },
+    {
+      "categoryId": 1028,
+      "count": 20,
+      "id": 663124,
+      "images": [
+        {
+          "id": 663124,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/663124/67ee6b04-15b1-42df-b1c1-029b11b3fb9d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/663124/67ee6b04-15b1-42df-b1c1-029b11b3fb9d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/663124/67ee6b04-15b1-42df-b1c1-029b11b3fb9d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/663124/67ee6b04-15b1-42df-b1c1-029b11b3fb9d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/663124/67ee6b04-15b1-42df-b1c1-029b11b3fb9d.png",
+          "position": 1
+        }
+      ],
+      "isWeight": false,
+      "name": "Халва DELISSE Подсолнечная воздушная, 200г",
+      "prices": {
+        "cost": 10799,
+        "costRegular": 13099,
+        "discount": 2300,
+        "discountPercentage": 18,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 10799,
+        "priceRegular": 13099
+      },
+      "slug": "halva-podsolnechnaya-vozdushnaya-rossiya-200g",
+      "storeId": 291,
+      "weight": {
+        "gross": 210,
+        "net": 0,
+        "package": "200г"
+      }
+    },
+    {
+      "categoryId": 18359,
+      "count": 9,
+      "id": 578132,
+      "images": [
+        {
+          "id": 578132,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/578132/7d4009da-92e1-4be0-b8fb-bda9109b8339.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/578132/7d4009da-92e1-4be0-b8fb-bda9109b8339.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/578132/7d4009da-92e1-4be0-b8fb-bda9109b8339.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/578132/7d4009da-92e1-4be0-b8fb-bda9109b8339.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/578132/7d4009da-92e1-4be0-b8fb-bda9109b8339.png",
+          "position": 1
+        },
+        {
+          "id": 578132,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/578132/f75d2ffa-3c27-4571-91f6-25738605fbf1.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/578132/f75d2ffa-3c27-4571-91f6-25738605fbf1.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/578132/f75d2ffa-3c27-4571-91f6-25738605fbf1.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/578132/f75d2ffa-3c27-4571-91f6-25738605fbf1.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/578132/f75d2ffa-3c27-4571-91f6-25738605fbf1.png",
+          "position": 2
+        },
+        {
+          "id": 578132,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/578132/38891aec-313b-42ea-8278-2e175b91215c.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/578132/38891aec-313b-42ea-8278-2e175b91215c.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/578132/38891aec-313b-42ea-8278-2e175b91215c.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/578132/38891aec-313b-42ea-8278-2e175b91215c.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/578132/38891aec-313b-42ea-8278-2e175b91215c.png",
+          "position": 3
+        }
+      ],
+      "isWeight": false,
+      "name": "Приправа для рыбы ЛЕНТА PREMIUM, 100г",
+      "prices": {
+        "cost": 9899,
+        "costRegular": 11399,
+        "discount": 1500,
+        "discountPercentage": 13,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 9899,
+        "priceRegular": 11399
+      },
+      "slug": "priprava-dryby-rossiya-100g",
+      "storeId": 291,
+      "weight": {
+        "gross": 110,
+        "net": 0,
+        "package": "100г"
+      }
+    },
+    {
+      "categoryId": 1028,
+      "count": 100,
+      "id": 541176,
+      "images": [
+        {
+          "id": 541176,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/541176/catalog-image/50709013-b823-490c-8026-bb8a8dbe435d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/541176/catalog-image/50709013-b823-490c-8026-bb8a8dbe435d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/541176/catalog-image/50709013-b823-490c-8026-bb8a8dbe435d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/541176/catalog-image/50709013-b823-490c-8026-bb8a8dbe435d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/541176/catalog-image/50709013-b823-490c-8026-bb8a8dbe435d.png",
+          "position": 1
+        },
+        {
+          "id": 541176,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/541176/catalog-image/4e47a01b-7485-48d2-a75a-9a948d59e06e.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/541176/catalog-image/4e47a01b-7485-48d2-a75a-9a948d59e06e.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/541176/catalog-image/4e47a01b-7485-48d2-a75a-9a948d59e06e.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/541176/catalog-image/4e47a01b-7485-48d2-a75a-9a948d59e06e.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/541176/catalog-image/4e47a01b-7485-48d2-a75a-9a948d59e06e.png",
+          "position": 2
+        },
+        {
+          "id": 541176,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/541176/catalog-image/7cfac557-91d1-4b12-b3d9-2e63f6a342cf.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/541176/catalog-image/7cfac557-91d1-4b12-b3d9-2e63f6a342cf.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/541176/catalog-image/7cfac557-91d1-4b12-b3d9-2e63f6a342cf.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/541176/catalog-image/7cfac557-91d1-4b12-b3d9-2e63f6a342cf.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/541176/catalog-image/7cfac557-91d1-4b12-b3d9-2e63f6a342cf.png",
+          "position": 3
+        },
+        {
+          "id": 541176,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/541176/catalog-image/5bd8d4c0-2f6b-4395-9ba5-7a582461d59f.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/541176/catalog-image/5bd8d4c0-2f6b-4395-9ba5-7a582461d59f.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/541176/catalog-image/5bd8d4c0-2f6b-4395-9ba5-7a582461d59f.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/541176/catalog-image/5bd8d4c0-2f6b-4395-9ba5-7a582461d59f.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/541176/catalog-image/5bd8d4c0-2f6b-4395-9ba5-7a582461d59f.png",
+          "position": 4
+        },
+        {
+          "id": 541176,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/541176/catalog-image/dc4e9440-d08d-46f5-9c80-dfe05084ea11.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/541176/catalog-image/dc4e9440-d08d-46f5-9c80-dfe05084ea11.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/541176/catalog-image/dc4e9440-d08d-46f5-9c80-dfe05084ea11.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/541176/catalog-image/dc4e9440-d08d-46f5-9c80-dfe05084ea11.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/541176/catalog-image/dc4e9440-d08d-46f5-9c80-dfe05084ea11.png",
+          "position": 5
+        }
+      ],
+      "isWeight": true,
+      "name": "Печенье сахарное TWIX Соленая карамель, шоколадное, весовое",
+      "prices": {
+        "cost": 89999,
+        "costRegular": 98999,
+        "discount": 9000,
+        "discountPercentage": 9,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 22500,
+        "priceRegular": 24750
+      },
+      "slug": "pechene-saharnoe-solenaya-karamel-shokoladnye-ves-rossiya",
+      "storeId": 291,
+      "weight": {
+        "gross": 250,
+        "net": 250,
+        "package": ""
+      }
+    },
+    {
+      "categoryId": 242,
+      "count": 12,
+      "id": 602047,
+      "images": [
+        {
+          "id": 602047,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/602047/814ce3f0-107a-4587-a97d-d4e3203bb1a0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/602047/814ce3f0-107a-4587-a97d-d4e3203bb1a0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/602047/814ce3f0-107a-4587-a97d-d4e3203bb1a0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/602047/814ce3f0-107a-4587-a97d-d4e3203bb1a0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/602047/814ce3f0-107a-4587-a97d-d4e3203bb1a0.png",
+          "position": 1
+        },
+        {
+          "id": 602047,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/602047/60ede22f-0644-494c-bd84-8c8027e1443a.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/602047/60ede22f-0644-494c-bd84-8c8027e1443a.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/602047/60ede22f-0644-494c-bd84-8c8027e1443a.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/602047/60ede22f-0644-494c-bd84-8c8027e1443a.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/602047/60ede22f-0644-494c-bd84-8c8027e1443a.png",
+          "position": 2
+        }
+      ],
+      "isWeight": false,
+      "name": "Кофе молотый FRESCO Arabica Blend, 250г",
+      "prices": {
+        "cost": 44799,
+        "costRegular": 55999,
+        "discount": 11200,
+        "discountPercentage": 20,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": true,
+        "price": 44799,
+        "priceRegular": 55999
+      },
+      "slug": "kofe-molotyjj-arabica-blend-mu-rossiya-250g",
+      "storeId": 291,
+      "weight": {
+        "gross": 260,
+        "net": 0,
+        "package": "250г"
+      }
+    },
+    {
+      "categoryId": 18199,
+      "count": 6,
+      "id": 545171,
+      "images": [
+        {
+          "id": 545171,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/545171/0096d819-a93b-4d09-bd7b-25cf07047c43.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/545171/0096d819-a93b-4d09-bd7b-25cf07047c43.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/545171/0096d819-a93b-4d09-bd7b-25cf07047c43.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/545171/0096d819-a93b-4d09-bd7b-25cf07047c43.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/545171/0096d819-a93b-4d09-bd7b-25cf07047c43.png",
+          "position": 1
+        },
+        {
+          "id": 545171,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/545171/dc5914e3-86cb-45d5-98ed-e9d06f21e9b0.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/545171/dc5914e3-86cb-45d5-98ed-e9d06f21e9b0.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/545171/dc5914e3-86cb-45d5-98ed-e9d06f21e9b0.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/545171/dc5914e3-86cb-45d5-98ed-e9d06f21e9b0.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/545171/dc5914e3-86cb-45d5-98ed-e9d06f21e9b0.png",
+          "position": 2
+        },
+        {
+          "id": 545171,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/545171/4df79500-d772-43b0-a7a3-4bcbd669f25d.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/545171/4df79500-d772-43b0-a7a3-4bcbd669f25d.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/545171/4df79500-d772-43b0-a7a3-4bcbd669f25d.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/545171/4df79500-d772-43b0-a7a3-4bcbd669f25d.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/545171/4df79500-d772-43b0-a7a3-4bcbd669f25d.png",
+          "position": 3
+        },
+        {
+          "id": 545171,
+          "pathIcon": "https://cdn.api.lenta.com/resample/webp/100x100/photo/545171/b632f309-bdc4-4f77-8a16-0108e75afe21.png",
+          "pathLarge": "https://cdn.api.lenta.com/resample/webp/900x900/photo/545171/b632f309-bdc4-4f77-8a16-0108e75afe21.png",
+          "pathMedium": "https://cdn.api.lenta.com/resample/webp/500x500/photo/545171/b632f309-bdc4-4f77-8a16-0108e75afe21.png",
+          "pathOriginal": "https://cdn.api.lenta.com/resample/webp/0x0/photo/545171/b632f309-bdc4-4f77-8a16-0108e75afe21.png",
+          "pathPreview": "https://cdn.api.lenta.com/resample/webp/250x250/photo/545171/b632f309-bdc4-4f77-8a16-0108e75afe21.png",
+          "position": 4
+        }
+      ],
+      "isWeight": false,
+      "name": "Набор автомобилиста ЛЕНТА в сумке",
+      "prices": {
+        "cost": 199900,
+        "costRegular": 199900,
+        "discount": 0,
+        "discountPercentage": 0,
+        "isLoyaltyCardPrice": false,
+        "isPromoactionPrice": false,
+        "price": 199900,
+        "priceRegular": 199900
+      },
+      "slug": "nabor-dto-v-sumke-rossiya",
+      "storeId": 291,
+      "weight": {
+        "gross": 3415,
+        "net": 0,
+        "package": ""
+      }
+    }
+  ],
+  "total": 1000
+}

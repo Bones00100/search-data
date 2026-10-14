@@ -1,0 +1,868 @@
+store: Лента
+store_id: 0291
+store_address: ул. Бибиревская 10 к.2
+category: мясо
+products:
+  свинина:
+  - id: 423767
+    name: Карбонад из свинины бескостный крупнокусковой ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/svinina-karbonad-bez-kosti-kusok-ohlazhdennyjj-ves-rossiya-423767/
+  - id: 11207
+    name: Вырезка свиная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/svinina-vyrezka-polufabrikat-ohlazhdennyjj-rossiya-11207/
+  - id: 423793
+    name: Лопатка свиная бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/svinina-lopatka-bez-kosti-kusok-ohlazhdennyjj-ves-rossiya-423793/
+  - id: 422842
+    name: Шея свиная бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/svinina-sheya-bez-kosti-kusok-ohlazhdennyjj-ves-rossiya-422842/
+  - id: 423794
+    name: Окорок свиной бескостный, весовой
+    url: https://lenta.com/product/svinina-okorok-bez-kosti-kusok-ohl-ves-rossiya-423794/
+  - id: 691050
+    name: Окорок свиной бескостный, в вакуумной упаковке ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/okorok-svinojj-bk-ohl-vu-ves-rossiya-691050/
+  - id: 66878
+    name: Стейк из свиной корейки, весовой
+    url: https://lenta.com/product/stejjk-iz-svinojj-korejjki-polufabrikat-ohlazhdjnnyjj-rossiya-66878/
+  - id: 691879
+    name: Лопатка свиная бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/lopatka-svinaya-bk-ohl-vu-ves-rossiya-691879/
+  - id: 689340
+    name: Корейка свиная, на кости, без шкуры, весовая
+    url: https://lenta.com/product/svinina-korejjka-na-kosti-bez-shkury-rossiya-689340/
+  - id: 459926
+    name: Чевапчичи из свинины БЛИЖНИЕ ГОРКИ, 300г
+    url: https://lenta.com/product/kolbaski-iz-svininy-chevapchichi-rossiya-300g-459926/
+  - id: 689341
+    name: Окорок свиной, на кости, без шкуры, весовой
+    url: https://lenta.com/product/svinina-okorok-na-kosti-bez-shkury-rossiya-689341/
+  - id: 370068
+    name: Свинина тушеная СОВОК высший сорт, ГОСТ, 325г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-gost-vs-sk-klyuch-rossiya-325g-370068/
+  - id: 441418
+    name: Фрикадельки из свинины БЛИЖНИЕ ГОРКИ, 360г
+    url: https://lenta.com/product/frikadelki-iz-svininy-ohl-lotok-rossiya-360g-441418/
+  - id: 656704
+    name: Рагу из свинины БЛИЖНИЕ ГОРКИ Для тушения, 400г
+    url: https://lenta.com/product/ragu-dlya-tusheniya-iz-svininy-ohl-lotok-rossiya-400g-656704/
+  - id: 173563
+    name: Стейк из свиной шеи, весовой
+    url: https://lenta.com/product/stejjk-iz-svinojj-shei-polufabrikat-ohlazhdjnnyjj-rossiya-173563/
+  - id: 898393
+    name: Бекон БЛИЖНИЕ ГОРКИ нарезка из свинины, 260г
+    url: https://lenta.com/product/bekon-narezka-iz-svininy-ohl-rossiya-260g-898393/
+  - id: 689355
+    name: Лопатка свиная, на кости, без шкуры, весовая
+    url: https://lenta.com/product/svinina-lopatka-na-kosti-bez-shkury-rossiya-689355/
+  - id: 691943
+    name: Карбонад свиной бескостный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/karbonad-svinojj-bk-ohl-vu-ves-rossiya-691943/
+  - id: 280334
+    name: Стейк из свиной корейки в сливочном маринаде с травами ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/stejjk-lenta-fresh-iz-svinojj-korejjki-v-clivochnom-marinade-s-travami-polufabrikat-280334/
+  - id: 887121
+    name: Шейка свинины крупнокусковая бескостная, категория Б, замороженная, весовая
+    url: https://lenta.com/product/svinina-shejjka-krupnokuskovaya-bk-kat-b-zam-ves-rossiya-887121/
+  - id: 14178
+    name: Ребрышки свиные, в маринаде ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/rebryshki-svinye-v-marinade-polufabrikat-ohlazhdennyjj-rossiya-14178/
+  - id: 239773
+    name: Свинина тушеная ЙОШКАР-ОЛИНСКИЙ МК высший сорт ГОСТ, 325г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-vs-8-rossiya-325g-239773/
+  - id: 583414
+    name: Ребра свиные МК ВЕЛИКОЛУКСКИЙ, весовые
+    url: https://lenta.com/product/svinina-rebra-ohl-vu-ves-rossiya-583414/
+  - id: 689354
+    name: Шея свиная, на кости, без шкуры, весовая
+    url: https://lenta.com/product/svinina-sheya-na-kosti-bez-shkury-rossiya-689354/
+  - id: 851823
+    name: Ножки свиные, категория Д, замороженные, весовые
+    url: https://lenta.com/product/nozhki-svinye-katd-pf-zam-fasves-rossiya-851823/
+  - id: 689829
+    name: Шея свиная бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/sheya-svinaya-bk-ohl-vu-ves-rossiya-689829/
+  - id: 488543
+    name: Свинина МК ВЕЛИКОЛУКСКИЙ высший сорт, 325г
+    url: https://lenta.com/product/myasnye-konservy-svinina-vysshijj-sort-rossiya-325g-488543/
+  - id: 714049
+    name: Стейк из свиной корейки САМСОН в маринаде, категория Б, 400г
+    url: https://lenta.com/product/stejjk-iz-svinojj-korejjki-v-marinade-katb-ohl-lotok-za-rossiya-400g-714049/
+  - id: 376162
+    name: Свинина тушеная ГРОДФУД, 338г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-975-myasa-klyuch-belarus-338g-376162/
+  - id: 713469
+    name: Окорок из свинины, бескостный, вакуумная упаковка, весовой
+    url: https://lenta.com/product/svinina-okorok-bk-ohl-vu-ves-rossiya-713469/
+  - id: 694160
+    name: Свинина тушеная PREMIUM CLUB, 338г
+    url: https://lenta.com/product/mk-svinina-tushenaya-zhb-rossiya-338g-694160/
+  - id: 455555
+    name: Бекон из мраморной говядины МИРАТОРГ, 190г
+    url: https://lenta.com/product/bekon-iz-mramornojj-govyadiny-ohl-rossiya-190g-455555/
+  - id: 12241
+    name: Купаты из свинины и говядины ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/kupaty-iz-svininy-i-govyadiny-polufabrikat-rossiya-12241/
+  - id: 422843
+    name: Ребрышки свиные САМСОН Классика, в маринаде, весовые
+    url: https://lenta.com/product/svinina-rebryshki-v-marinade-klassika-ves-rossiya-422843/
+  - id: 100058
+    name: Свинина тушеная ЛЕНТА высший сорт ГОСТ, 525г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-gost-vs-rossiya-525g-100058/
+  - id: 462153
+    name: Карбонад из свинины БЛИЖНИЕ ГОРКИ в классическом соусе, весовой
+    url: https://lenta.com/product/svinina-karbonad-v-klassicheskom-souse-ohl-ves-rossiya-462153/
+  - id: 703314
+    name: Свинина тушеная ВЫБОР СЕМЬИ, 500г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-st-rossiya-500g-703314/
+  - id: 193212
+    name: Рулька свиная для запекания МИРАТОРГ в маринаде, на кости, весовая
+    url: https://lenta.com/product/svinina-rulka-nk-v-marinade-ohl-ves-rossiya-193212/
+  - id: 608398
+    name: Свинина ЧЕРКИЗОВО на хрящиках с чесноком и зеленью, категория Г, весовая
+    url: https://lenta.com/product/svinina-mk-na-hryashchikah-s-chesnokom-i-zelenyu-kat-g-ves-rossiya-608398/
+  - id: 673767
+    name: Вырезка из свинины ОСТАНКИНО категории А, бескостная, весовая
+    url: https://lenta.com/product/vyrezka-iz-svininy-kata-bk-vu-ves-rossiya-673767/
+  - id: 446274
+    name: Оболочка свиная натуральная 5м, 50г
+    url: https://lenta.com/product/obolochka-svinaya-naturalnaya-5m-rossiya-50g-446274/
+  - id: 7028
+    name: Гуляш из свинины ДРУЖЕ, 400г
+    url: https://lenta.com/product/gulyash-iz-svininy-rossiya-400g-7028/
+  - id: 773932
+    name: Ребрышки свиные БЛИЖНИЕ ГОРКИ в маринаде, весовые
+    url: https://lenta.com/product/svinina-na-rjbryshkah-v-marinade-ohl-vu-ves-rossiya-773932/
+  - id: 716687
+    name: Стейк свиной МИРАТОРГ Tender Pork Томагавк, категория Б, 360г
+    url: https://lenta.com/product/svinina-stejjk-tender-pork-tomagavk-ohl-rossiya-360g-716687/
+  - id: 249000
+    name: Окорок свиной МИРАТОРГ в маринаде, бескостный, весовой
+    url: https://lenta.com/product/svinina-okorok-v-marinade-bk-vu-ohl-ves-rossiya-249000/
+  - id: 728225
+    name: Шейка свиная ЧЕРКИЗОВО По-баварски в оригинальном соусе, весовая
+    url: https://lenta.com/product/svinina-shejjka-po-bavarski-v-originalnom-souse-ohl-vu-ves-rossiya-728225/
+  - id: 751033
+    name: Мясо тушеное ДРУЖЕ говядина и свинина, кусковое, 325г
+    url: https://lenta.com/product/mk-govyadina-i-svinina-tushenaya-kuskovye-steriliz-zhb-rossiya-325g-751033/
+  - id: 486479
+    name: Буженина из свиного окорока МИРАТОРГ Домашняя, бескостная, весовая
+    url: https://lenta.com/product/buzhenina-domashnyaya-iz-svinogo-okoroka-bk-vu-ohl-ves-rossiya-486479/
+  - id: 458114
+    name: Свинина тушеная БУРЯТМЯСОПРОМ высший сорт, ГОСТ, 338г
+    url: https://lenta.com/product/myasnye-konservy-svinina-tushenaya-vysshijj-sort-gost-rossiya-338g-458114/
+  - id: 671805
+    name: Жаркое из свинины ЧЕРКИЗОВО ПРЕМИУМ в пряном соусе, 800г
+    url: https://lenta.com/product/zharkoe-iz-svininy-v-pryanom-souse-ohl-vu-rossiya-800g-671805/
+  - id: 669919
+    name: Окорок свиной ЧЕРКИЗОВО ПРЕМИУМ По-техасски, весовой
+    url: https://lenta.com/product/svinina-okorok-po-tehasski-ohl-vu-ves-rossiya-669919/
+  - id: 669920
+    name: Рулька свиная ЧЕРКИЗОВО ПРЕМИУМ Праздничный рецепт, весовая
+    url: https://lenta.com/product/svinina-rulka-prazdnichnyjj-recept-ohl-vu-ves-rossiya-669920/
+  курица:
+  - id: 11305
+    name: Бедро куриное ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/kurinoe-bedro-polufabrikat-ohlazhdennyjj-ves-rossiya-11305/
+  - id: 11304
+    name: Голень куриная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/kurinaya-golen-polufabrikat-ohlazhdennyjj-ves-rossiya-11304/
+  - id: 123265
+    name: Филе куриное ПЕТЕЛИНКА, весовое
+    url: https://lenta.com/product/file-kurinoe-ohl-podlozhka-ves-rossiya-123265/
+  - id: 11299
+    name: Тушка куриная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/kurinaya-tushka-polufabrikat-ohlazhdennyjj-ves-rossiya-11299/
+  - id: 388912
+    name: Мясо бедра куриного ПЕТЕЛИНКА бескостное, весовое
+    url: https://lenta.com/product/file-kurinoe-beskostnoe-myaso-bedra-podl-ohl-ves-rossiya-388912/
+  - id: 11303
+    name: Крылья куриные ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/kurinye-krylya-polufabrikat-ohlazhdennyjj-ves-rossiya-11303/
+  - id: 123264
+    name: Голень куриная ПЕТЕЛИНКА, весовая
+    url: https://lenta.com/product/golen-kurinaya-ohl-podlozhka-ves-rossiya-123264/
+  - id: 307799
+    name: Филе куриное КУРИНОЕ ЦАРСТВО, весовое
+    url: https://lenta.com/product/file-kurinoe-bkozhi-ohl-podlozhka-ves-rossiya-307799/
+  - id: 626150
+    name: Тушка цыпленка-бройлера ПЕТЕЛИНКА 1 сорт, потрошеная, весовая
+    url: https://lenta.com/product/cyplenok-brojjler-tushka-1-sort-potroshjnaya-vu-ohl-ves-rossiya-626150/
+  - id: 300952
+    name: Филе грудки куриное ПЕРВАЯ СВЕЖЕСТЬ, весовое
+    url: https://lenta.com/product/file-kurinoe-ohl-podlozhka-ves-rossiya-300952/
+  - id: 123266
+    name: Бедро куриное ПЕТЕЛИНКА, весовое
+    url: https://lenta.com/product/bedro-kurinoe-ohl-podl-ves-rossiya-123266/
+  - id: 123268
+    name: Крыло куриное ПЕТЕЛИНКА, весовое
+    url: https://lenta.com/product/krylo-kurinoe-ohl-podlozhka-rossiya-123268/
+  - id: 571710
+    name: Филе бедра куриное ТРОЕКУРОВО, 750г
+    url: https://lenta.com/product/file-bedra-kurinoe-ohl-rossiya-750g-571710/
+  - id: 699533
+    name: Филе бедра куриное ПЕРВАЯ СВЕЖЕСТЬ, весовое
+    url: https://lenta.com/product/file-bedra-kurinoe-podlozhka-ohl-ves-rossiya-699533/
+  - id: 300975
+    name: Бедро куриное ПЕРВАЯ СВЕЖЕСТЬ, весовое
+    url: https://lenta.com/product/bedro-kurinoe-ohl-podlozhka-ves-rossiya-300975/
+  - id: 290646
+    name: Тушка цыпленка-бройлера КУРИНОЕ ЦАРСТВО, 1-й сорт, весовая
+    url: https://lenta.com/product/tushka-cyplenka-brojjlera-1s-gost-ohl-paket-ves-rossiya-290646/
+  - id: 513776
+    name: Шеи куриные ТРОЕКУРОВО, 500г
+    url: https://lenta.com/product/shei-kurinye-ohl-lotok-rossiya-500g-513776/
+  - id: 517111
+    name: Грудка куриная ПЕТЕЛИНКА без кожи, весовая
+    url: https://lenta.com/product/grudka-kurinaya-bez-kozhi-podl-ohl-ves-rossiya-517111/
+  - id: 458680
+    name: Филе куриное ТРОЕКУРОВО, 900г
+    url: https://lenta.com/product/file-kurinoe-ohl-lotok-rossiya-900g-458680/
+  - id: 597242
+    name: Набор для супа из курицы ПЕРВАЯ СВЕЖЕСТЬ, весовой
+    url: https://lenta.com/product/nabor-dlya-supa-kurinyjj-podlozhka-ves-rossiya-597242/
+  - id: 538302
+    name: Набор из курицы ПЕРВАЯ СВЕЖЕСТЬ крыло, голень, бедро, весовой
+    url: https://lenta.com/product/nabor-iz-cyplyat-podlozhka-ves-rossiya-538302/
+  - id: 432564
+    name: Тефтели куриные ТРОЕКУРОВО, 350г
+    url: https://lenta.com/product/tefteli-kurinye-ohl-podlozhka-rossiya-350g-432564/
+  - id: 300966
+    name: Голень куриная ПЕРВАЯ СВЕЖЕСТЬ, весовая
+    url: https://lenta.com/product/golen-kurinaya-ohl-podlozhka-ves-rossiya-300966/
+  - id: 723575
+    name: Тушка куриная ЛАТИФА 1 сорт, ГОСТ, Халяль, весовая
+    url: https://lenta.com/product/tushka-cyplenka-brojjlera-1s-gost-halyal-ohl-vu-ves-rossiya-723575/
+  - id: 699495
+    name: Крылья куриные ПЕРВАЯ СВЕЖЕСТЬ две раздельные части, весовые
+    url: https://lenta.com/product/krylya-kurinye-dve-chasti-razdelno-ohl-ves-rossiya-699495/
+  - id: 549449
+    name: Медальон из куриного филе ПЕТЕЛИНКА, 450г
+    url: https://lenta.com/product/file-kurinoe-medalon-rossiya-450g-549449/
+  - id: 575731
+    name: Шарики куриные ПЕРВАЯ СВЕЖЕСТЬ, 450г
+    url: https://lenta.com/product/shariki-kurinye-podlozhka-rossiya-450g-575731/
+  - id: 684594
+    name: Набор куриный для студня, замороженный, весовой
+    url: https://lenta.com/product/nabor-dlya-studnya-cb-paket-zam-ves-rossiya-684594/
+  - id: 505555
+    name: Голень куриная в маринаде ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/golen-kurinaya-v-marinade-polufabrikat-ohlazhdennyjj-rossiya-505555/
+  - id: 12841
+    name: Крылья куриные в маринаде ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/krylya-kurinye-v-marinade-polufabrikat-ohlazhdennyjj-rossiya-12841/
+  - id: 675725
+    name: Головы куриные замороженные, весовые
+    url: https://lenta.com/product/golovy-cb-fasovochnyjj-paket-zam-ves-rossiya-675725/
+  - id: 300946
+    name: Тушка цыпленка-бройлера ПЕРВАЯ СВЕЖЕСТЬ 1-я категория, весовая
+    url: https://lenta.com/product/tushka-cyplenka-brojjlera-1kat-ohl-podlozhka-ves-rossiya-300946/
+  - id: 505556
+    name: Бедро куриное в маринаде ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/bedro-kurinoe-v-marinade-polufabrikat-ohlazhdennyjj-ves-505556/
+  - id: 376462
+    name: Цыпленок табака РОКОКО в обсыпке, весовой
+    url: https://lenta.com/product/cyplenok-tabaka-v-obsypke-podlozhka-ves-rossiya-376462/
+  - id: 563513
+    name: Ноги куриные замороженные ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/nogi-kurinye-zam-ves-rossiya-563513/
+  - id: 563514
+    name: Шеи куриные замороженные ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/shei-kurinye-zam-ves-rossiya-563514/
+  - id: 445844
+    name: Медальоны из куриного филе ПЕРВАЯ СВЕЖЕСТЬ, весовые
+    url: https://lenta.com/product/medalony-kurinye-ohl-ves-rossiya-445844/
+  - id: 740916
+    name: Голень цыпленка табака РОКОКО, 900г
+    url: https://lenta.com/product/golen-cyplenka-tabaka-ohl-rossiya-900g-740916/
+  - id: 370071
+    name: Мясо цыпленка СОВОК высший сорт, ГОСТ, 325г
+    url: https://lenta.com/product/myasnye-konservy-myaso-cyplenka-gost-v-ss-sk-klyuch-rossiya-325g-370071/
+  - id: 696474
+    name: Цыпленок тушеный PREMIUM CLUB в собственном соку, 338г
+    url: https://lenta.com/product/myasnye-konservy-cyplenok-tushenyjj-v-ss-zhb-rossiya-350g-696474/
+  - id: 700226
+    name: Голень куриная замороженная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/cyplenok-brojjler-golen-zam-ves-rossiya-700226/
+  - id: 700232
+    name: Окорочок куриный замороженный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/cyplenok-brojjler-okorochok-zam-ves-rossiya-700232/
+  - id: 700317
+    name: Бедро куриное замороженное ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/cyplenok-brojjler-bedro-zam-ves-rossiya-700317/
+  - id: 709552
+    name: Мясо цыпленка томленое ДОБРИНСКОЕ Фермерское натуральное, 300г
+    url: https://lenta.com/product/mk-myaso-cyplenka-naturalnoe-fermerskoe-tomljnoe-st-rossiya-300g-709552/
+  фарш:
+  - id: 894812
+    name: Фарш из филе куриной грудки ПЕТЕЛИНКА Премиум, 450г
+    url: https://lenta.com/product/farsh-premium-iz-file-grudki-rossiya-450g-894812/
+  - id: 515834
+    name: Фарш БЛИЖНИЕ ГОРКИ Деревенский, 400г
+    url: https://lenta.com/product/farsh-derevenskijj-ohlv-lotke-rossiya-400g-515834/
+  - id: 11203
+    name: Фарш из свинины и говядины ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/farsh-iz-svininy-i-govyadiny-rossiya-11203/
+  - id: 67314
+    name: Фарш из свинины ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/farsh-svinojjpolufabrikat-ohlazhdennyjj-rossiya-67314/
+  - id: 67313
+    name: Фарш из говядины ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/farsh-govyazhijj-polufabrikat-ohlazhdennyjj-vesovojj-rossiya-67313/
+  - id: 378691
+    name: Фарш из свинины Любительский ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/farsh-svinojj-lyubitelskijj-polufabrikat-ohlazhdennyjj-rossiya-378691/
+  - id: 733947
+    name: Фарш куриный ПЕРВАЯ СВЕЖЕСТЬ Домашний, 400г
+    url: https://lenta.com/product/farsh-cyplenka-brojjlera-domashnijj-iz-myasa-cb-rossiya-400g-733947/
+  - id: 430753
+    name: Фарш из индейки ИНДИЛАЙТ Классический, 450г
+    url: https://lenta.com/product/farsh-iz-indejjki-klassicheskijj-lotok-gvu-rossiya-450g-430753/
+  - id: 166591
+    name: Фарш из свинины и говядины САМСОН Домашний, категория Б, 400 г
+    url: https://lenta.com/product/farsh-domashnijj-rublenyjj-katb--ohl-rossiya-400g-166591/
+  - id: 334401
+    name: Фарш из мраморной говядины МИРАТОРГ Блэк Ангус, 400г
+    url: https://lenta.com/product/farsh-iz-mramornojj-govyadiny-blek-angus-ohl-rossiya-400g-334401/
+  - id: 743714
+    name: Фарш из свинины и говядины ДРУЖЕ Домашний, 400г
+    url: https://lenta.com/product/farsh-domashnijj-iz-svininy-i-govyadiny-mga-ohl-rossiya-400g-743714/
+  - id: 23366
+    name: Перец фаршированный мясом и рисом ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/perec-farshirovannyjj-myasom-i-risom-polufabrikat-23366/
+  - id: 7027
+    name: Фрикадельки из домашнего фарша ВЫБОР СЕМЬИ, 240г
+    url: https://lenta.com/product/frikadelki-iz-domashnego-farsha-rossiya-240g-7027/
+  - id: 702691
+    name: Фарш свиной 365 ДНЕЙ категория В, замороженный, 400г
+    url: https://lenta.com/product/farsh-svinojj-katv-zam-rossiya-400g-702691/
+  - id: 619719
+    name: Фарш из мраморной говядины МИРАТОРГ, 1кг
+    url: https://lenta.com/product/farsh-iz-mramornojj-govyadiny-ohl-rossiya-1000g-619719/
+  - id: 635975
+    name: Фарш из курицы и говядины МИРАТОРГ ФБ, 400г
+    url: https://lenta.com/product/farsh-fb-iz-kuricy-i-govyadiny-mgs-ohl-rossiya-400g-635975/
+  - id: 662314
+    name: Фарш из свинины и говядины ЧЕРКИЗОВО Классический, 400г
+    url: https://lenta.com/product/farsh-klassicheskijj-iz-svininy-i-govyadiny-ohl-rossiya-400g-662314/
+  говядина:
+  - id: 97725
+    name: Тазобедренная часть говяжья бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-tazobedrennaya-chast-beskostnaya-polufabrikat-ohlazhdennyjj-rossiya-97725/
+  - id: 42880
+    name: Лопатка говяжья бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-lopatka-beskostnaya-polufabrikat-ohlazhdennyjj-rossiya-42880/
+  - id: 71816
+    name: Шея говяжья бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-sheya-beskostnaya-polufabrikat-ohlazhdennyjj-rossiya-71816/
+  - id: 47089
+    name: Говядина для бульона бескостная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-myaso-dlya-bulona-beskostnoe-polufabrikat-ohlazhdennyjj-rossiya-47089/
+  - id: 58865
+    name: Грудинка говяжья на кости ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-grudinka-na-kosti-polufabrikat-ohlazhdennyjj-rossiya-58865/
+  - id: 11219
+    name: Гуляш из говядины бескостный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/govyadina-gulyash-beskostnyjj-polufabrikat-ohlazhdennyjj-rossiya-11219/
+  - id: 729402
+    name: Кость говяжья РОДНЫЕ МЕСТА лодочка, замороженная, весовая
+    url: https://lenta.com/product/kost-govyazhya-lodochka-zam-vu-ves-rossiya-729402/
+  - id: 732228
+    name: Набор суповой говяжий ВЫБОР СЕМЬИ замороженный, весовой
+    url: https://lenta.com/product/nabor-supovojj-govyazhijj-zam-ves-rossiya-732228/
+  - id: 696692
+    name: Говядина тушеная PREMIUM CLUB высший сорт, 338г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-vysshijj-sort-zhb-rossiya-338g-696692/
+  - id: 370070
+    name: Говядина тушеная СОВОК высший сорт, ГОСТ, 325г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-gost-vs-sk-klyuch-rossiya-325g-370070/
+  - id: 376161
+    name: Говядина тушеная ГРОДФУД, 338г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-975-myasa-klyuch-belarus-338g-376161/
+  - id: 58866
+    name: Шейно‑лопаточный отруб говяжий на кости ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/govyadina-shejjno-lopatochnyjj-otrub-na-kosti-polufabrikat-ohlazhdennyjj-rossiya-58866/
+  - id: 175780
+    name: Тазобедренная часть говядины на кости ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-tazobedrennaya-chast-na-kosti-polufabrikat-ohlazhdennyjj-rossiya-175780/
+  - id: 58862
+    name: Говядина антрекотная часть, на кости ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyadina-antrekotnaya-chast-na-kosti-polufabrikat-ohlazhdennyjj-rossiya-58862/
+  - id: 100057
+    name: Говядина тушеная ЛЕНТА высший сорт ГОСТ, 525г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-gost-vs-rossiya-525g-100057/
+  - id: 906251
+    name: Стейк из говядины CARNEBRAVO Флэнк, 200г
+    url: https://lenta.com/product/stejjk-stejjk-flenk-ohl-vu-rossiya-200g-906251/
+  - id: 746092
+    name: Стейк из говядина МИРАТОРГ по рецепту Минутка, бескостный, 190г
+    url: https://lenta.com/product/govyadina-stejjk-po-receptu-minutka-bk-ohl-rossiya-190g-746092/
+  - id: 902141
+    name: Мякоть говядины тазобедренная часть, бескостная ЛЕНТА FRESH, 600г
+    url: https://lenta.com/product/govyadina-myakot-tazobedrennojj-chasti-bk-ohl-rossiya-600g-902141/
+  - id: 477718
+    name: Говядина тушеная КУРГАНСКИЙ СТАНДАРТ Стандарт, высший сорт ГОСТ, 338г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-vs-gost-rossiya-338g-477718/
+  - id: 601342
+    name: Стейк из мраморной говядины МИРАТОРГ Matured Beef Денвер, 310г
+    url: https://lenta.com/product/govyadina-matured-beef-stejjk-denver-iz-mram-govyadiny-ohl-vu-rossiya-310g-601342/
+  - id: 700316
+    name: Стейк из говядины МЯСО ЕСТЬ! Чак ролл, категория А, 200г
+    url: https://lenta.com/product/govyadina-stejjk-chak-roll-ohl-vu-rossiya-200g-700316/
+  - id: 715926
+    name: Щечки говяжьи АМТ, весовые
+    url: https://lenta.com/product/govyadina-shchechki-ohl-ves-rossiya-715926/
+  - id: 693851
+    name: Говядина PREMIUM CLUB Халяль, 325г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-halyal-rossiya-325g-693851/
+  - id: 698523
+    name: Говядина тушеная БУРЯТМЯСПРОМ высший сорт, ГОСТ, 338г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-tushenaya-vs-gost-rossiya-338g-698523/
+  - id: 727828
+    name: Мякоть говяжья МЯСО ЕСТЬ! лопаточная часть, бескостная, 400г
+    url: https://lenta.com/product/govyadina-myakot-lopatochnojj-chasti-bk-ohl-rossiya-400g-727828/
+  - id: 727214
+    name: Филей из телятины ЭКОЛЬ, 400г
+    url: https://lenta.com/product/telyatina-filejj-ohl-rossiya-400g-727214/
+  - id: 747346
+    name: Говядина для первых и вторых блюд МЯСО ЕСТЬ! бескостная, 400г
+    url: https://lenta.com/product/govyadina-dpervyh-i-vtoryh-blyud-bk-ohl-rossiya-400g-747346/
+  - id: 598207
+    name: Стейк из мраморной говядины МИРАТОРГ Matured Beef Чак, 290г
+    url: https://lenta.com/product/govyadina-matured-beef-stejjk-chak-iz-mramornojj-govyadiny-ohl-vu-rossiya-290g-598207/
+  - id: 746668
+    name: Стейк из мраморной говядины PRIMEBEEF Ранчо, 250г
+    url: https://lenta.com/product/govyadina-rancho-stejjk-iz-mramornojj-govyadiny-rossiya-250g-746668/
+  - id: 889170
+    name: Гуляш из говядины ДРУЖЕ, 400г
+    url: https://lenta.com/product/gulyash-iz-govyadiny-ohl-rossiya-400g-889170/
+  - id: 747344
+    name: Мякоть говяжья МЯСО ЕСТЬ! шейная часть, бескостная, 600г
+    url: https://lenta.com/product/govyadina-myakot-shejjnojj-chasti-bk-ohl-rossiya-600g-747344/
+  - id: 890517
+    name: Стейк из мраморной говядины PRIMEBEEF Раунд, 250г
+    url: https://lenta.com/product/stejjk-raund-iz-mramornojj-govyadiny-ohl-rossiya-250g-890517/
+  - id: 598359
+    name: Стейк из говядины МИРАТОРГ Black Angus Три-тип, 390г
+    url: https://lenta.com/product/govyadina-stejjk-tri-tip-black-angus-ohl-vu-rossiya-390g-598359/
+  - id: 359560
+    name: Стейк из мраморной говядины МИРАТОРГ Стриплойн Black Angus, 320г
+    url: https://lenta.com/product/govyadina-stejjk-striplojjn-blek-angus-rvk-ohl-rossiya-320g-359560/
+  - id: 488544
+    name: Говядина МК ВЕЛИКОЛУКСКИЙ высший сорт, 325г
+    url: https://lenta.com/product/myasnye-konservy-govyadina-vysshijj-sort-rossiya-325g-488544/
+  - id: 578516
+    name: Стейк из говядины МЯСО ЕСТЬ! Стриплойн в маринаде, 200г
+    url: https://lenta.com/product/govyadina-stejjk-striplojjn-v-marinade-rossiya-200g-578516/
+  - id: 725337
+    name: Стейк из говядины PREMIUM CLUB Стриплойн Choice, 320г
+    url: https://lenta.com/product/stejjk-striplojjn-choice-iz-govyadiny-ohl-rossiya-320g-725337/
+  - id: 528579
+    name: Стейк из говядины МИРАТОРГ Паризьен Black Angus, 290г
+    url: https://lenta.com/product/govyadina-stejjk-parizen-black-angus-ohl-rossiya-290g-528579/
+  - id: 894463
+    name: Говядина тушеная ДРУЖЕ, 430г
+    url: https://lenta.com/product/mk-govyadina-tushenaya-st-rossiya-430g-894463/
+  - id: 535878
+    name: Говядина тушеная ШТАБ высший сорт ГОСТ, 325г
+    url: https://lenta.com/product/mk-govyadina-tushenaya-gost-vs-rossiya-325g-535878/
+  - id: 725100
+    name: Стейк из говядины PREMIUM CLUB Стриплойн, 200г
+    url: https://lenta.com/product/stejjk-striplojjn-iz-govyadiny-ohl-rossiya-200g-725100/
+  - id: 915917
+    name: Стейк из говядины PREMIUM CLUB Фланк, 300г
+    url: https://lenta.com/product/govyadina-stejjk-flank-ohl-rossiya-300g-915917/
+  - id: 571731
+    name: Стейк из говядины МЯСО ЕСТЬ! Рибай, 250г
+    url: https://lenta.com/product/govyadina-stejjk-ribajj-ohl-rossiya-250g-571731/
+  - id: 747345
+    name: Стейк из говядины МЯСО ЕСТЬ! Party Классик, бескостный, 230г
+    url: https://lenta.com/product/govyadina-party-klassik-stejjk-bk-ohl-rossiya-230g-747345/
+  - id: 359721
+    name: Стейк из мраморной говядины МИРАТОРГ Рибай Black Angus, 320г
+    url: https://lenta.com/product/govyadina-stejjk-ribajj-blek-angus-rvk-ohl-rossiya-320g-359721/
+  - id: 638190
+    name: Стейк из говядины МИРАТОРГ Рибай, категория А, 500г
+    url: https://lenta.com/product/stejjk-fb-iz-govyadiny-ribajj-kata-ohl-rossiya-500g-638190/
+  - id: 725265
+    name: Стейк из говядины PREMIUM CLUB Пиканья, 300г
+    url: https://lenta.com/product/stejjk-pikanya-iz-govyadiny-ohl-rossiya-300g-725265/
+  - id: 577174
+    name: Стейк из мраморной говядины PRIMEBEEF Топ-Сирлойн, 300г
+    url: https://lenta.com/product/govyadina-stejjk-top-sirlojjn-iz-mramornojj-govyadiny-ohl-rossiya-300g-577174/
+  - id: 725099
+    name: Стейк из говядины PREMIUM CLUB Рибай Choice, 320г
+    url: https://lenta.com/product/stejjk-ribajj-choice-iz-govyadiny-ohl-rossiya-320g-725099/
+  - id: 679921
+    name: Стейк из говядины SUPER Топ Блейд, 250г
+    url: https://lenta.com/product/govyadina-stejjk-top-blejjd-rossiya-250g-679921/
+  индейка:
+  - id: 103007
+    name: Филе бедра индейки ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/file-bedra-indejjki-ohlazhdennoe-ves-rossiya-103007/
+  - id: 103008
+    name: Филе грудки индейки ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/file-grudki-indejjki-ohlazhdennoe-ves-rossiya-103008/
+  - id: 103078
+    name: Крыло индейки ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/krylo-indejjki-ohl-ves-rossiya-103078/
+  - id: 674184
+    name: Филе индейки ПАВА ПАВА Премиум, 500г
+    url: https://lenta.com/product/file-indejjki-premium-ohl-rossiya-500g-674184/
+  - id: 103045
+    name: Голень индейки ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/golen-indejjki-ohl-ves-rossiya-103045/
+  - id: 563278
+    name: Филе голени индейки, весовое
+    url: https://lenta.com/product/file-goleni-indejjki-ohl-ves-rossiya-563278/
+  - id: 719162
+    name: Бедро индейки без кожи, на кости, весовое
+    url: https://lenta.com/product/bedro-indejjki-bez-kozhi-na-kosti-ohl-ves-rossiya-719162/
+  - id: 674389
+    name: Филе голени индейки ПАВА ПАВА, 450г
+    url: https://lenta.com/product/file-goleni-indejjki-ohl-rossiya-450g-674389/
+  - id: 484545
+    name: Филе бедра индейки ИНДИЛАЙТ, 410г
+    url: https://lenta.com/product/file-bedra-indejjki-ohl-gvu-rossiya-410g-484545/
+  - id: 484629
+    name: Филе грудки индейки ИНДИЛАЙТ, 500г
+    url: https://lenta.com/product/file-grudki-indejjki-ohl-gvu-rossiya-500g-484629/
+  - id: 664678
+    name: Филе бедра индейки ПАВА ПАВА, 800г
+    url: https://lenta.com/product/file-bedra-indejjki-ohl-vu-rossiya-800g-664678/
+  - id: 596689
+    name: Стейк из грудки индейки ПАВА ПАВА, 500г
+    url: https://lenta.com/product/stejjk-iz-indejjki-stejjk-tm-rossiya-500g-596689/
+  - id: 265329
+    name: Филе бедра индейки ИНДИЛАЙТ, весовое
+    url: https://lenta.com/product/file-bedra-indejjki-gvu-ves-rossiya-265329/
+  - id: 888177
+    name: Эскалоп из филе грудки индейки ПАВА ПАВА бескостный, 480г
+    url: https://lenta.com/product/file-grudki-indejjki-eskalop-bk-pf-ohl-rossiya-480g-888177/
+  - id: 548591
+    name: Тефтели из индейки ИНДИЛАЙТ, 330г
+    url: https://lenta.com/product/tefteli-iz-indejjki-ohl-gvu-lotok-rossiya-330g-548591/
+  - id: 909505
+    name: Стейк из филе грудки индейки ИНДИЛАЙТ в соусе Барбекю, 600г
+    url: https://lenta.com/product/file-grudki-indejjki-stejjk-v-souse-barbekyu-ohl-rossiya-600g-909505/
+  - id: 265330
+    name: Филе грудки индейки ИНДИЛАЙТ, весовое
+    url: https://lenta.com/product/file-grudki-indejjki-gvu-ves-rossiya-265330/
+  - id: 866121
+    name: Филе грудки индейки для запекания ИНДИЛАЙТ в сливочном соусе, 800г
+    url: https://lenta.com/product/file-grudki-indejjki-v-slivochnom-couse-dlya-zapekaniya-ohl-rossiya-800g-866121/
+  - id: 768386
+    name: Филе грудки индейки ПАВА ПАВА большое, 700г
+    url: https://lenta.com/product/file-grudki-indejjki-bolshoe-ohl-mgs-rossiya-700g-768386/
+  - id: 492261
+    name: Купаты из индейки ИНДИЛАЙТ По-домашнему, 500г
+    url: https://lenta.com/product/kupaty-iz-indejjki-po-domashnemu-ohl-lotok-rossiya-500g-492261/
+  - id: 792581
+    name: Азу из мяса индейки ПАВА ПАВА, 450г
+    url: https://lenta.com/product/azu-iz-myasa-indejjki-ohl-rossiya-450g-792581/
+  - id: 732556
+    name: Филе грудки индейки ПАВА ПАВА вырезка, 800г
+    url: https://lenta.com/product/file-grudki-indejjki-vyrezka-ohl-rossiya-800g-732556/
+  - id: 630531
+    name: Филе бедра индейки ПАВА ПАВА, 450г
+    url: https://lenta.com/product/file-bedra-indejjki-rossiya-450g-630531/
+  - id: 704324
+    name: Мясо индейки PREMIUM CLUB в собственном соку, 350г
+    url: https://lenta.com/product/myasnye-konservy-myaso-indejjki-v-ss-zhb-rossiya-350g-704324/
+  - id: 747180
+    name: Индейка РУЗКОМ литография, ГОСТ, 325г
+    url: https://lenta.com/product/mk-indejjka-litografiya-gost-zhb-klyuch-rossiya-325g-747180/
+  - id: 552063
+    name: Мясо индейки СОВОК в собственном соку высший сорт, ГОСТ, 325г
+    url: https://lenta.com/product/mk-myaso-indejjki-v-ss-zhb-8-gost-28589-2014-s-klyuchom-rossiya-325g-552063/
+  субпродукты:
+  - id: 51747
+    name: Печень говяжья ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/govyazhya-pechen-subprodukt-iz-morozhenogo-syrya-51747/
+  - id: 77974
+    name: Печень куриная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/pechen-cyplyat-brojjlerov-ohl-ves-rossiya-77974/
+  - id: 101947
+    name: Сердце куриное ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/serdce-cyplenka-brojjlera-ohl-ves-rossiya-101947/
+  - id: 766317
+    name: Печень куриная ПЕТЕЛИНКА, 450г
+    url: https://lenta.com/product/pechen-cyplenka-brojjlera-ohl-rossiya-450g-766317/
+  - id: 13672
+    name: Язык свиной ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/svinojj-yazyk-subprodukt-iz-morozhenogo-syrya-13672/
+  - id: 143817
+    name: Желудки куриные ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/zheludki-cyplenka-brojjlera-ohl-ves-rossiya-143817/
+  - id: 461111
+    name: Печень куриная ТРОЕКУРОВО, 500г
+    url: https://lenta.com/product/pechen-kurinaya-ohl-lotok-mga-rossiya-500g-461111/
+  - id: 768278
+    name: Сердце куриное ПЕТЕЛИНКА, 450г
+    url: https://lenta.com/product/serdce-cyplenka-brojjlera-ohl-rossiya-450g-768278/
+  - id: 503028
+    name: Печень индейки ИНДИЛАЙТ, 500г
+    url: https://lenta.com/product/pechen-indejjki-ohl-gvu-rossiya-500g-503028/
+  - id: 735664
+    name: Сердце куриное ПЕРВАЯ СВЕЖЕСТЬ, 450г
+    url: https://lenta.com/product/serdce-cyplenka-brojjlera-ohl-rossiya-450g-735664/
+  - id: 661018
+    name: Сердце свиное замороженное ЛЕНТА, весовое
+    url: https://lenta.com/product/serdce-svinoe-zam-ves-rossiya-661018/
+  - id: 588053
+    name: Печень свиная замороженная 365 ДНЕЙ, весовая
+    url: https://lenta.com/product/pechen-svinaya-subprodukt-myasnojj-zam-ves-rossiya-588053/
+  - id: 461112
+    name: Желудки куриные ТРОЕКУРОВО, 500г
+    url: https://lenta.com/product/zheludki-kurinye-ohl-lotok-rossiya-500g-461112/
+  - id: 723175
+    name: Легкое говяжье ЛЕНТА замороженное, весовое
+    url: https://lenta.com/product/legkoe-govyazhe-zam-ves-rossiya-723175/
+  - id: 660947
+    name: Сердце говяжье замороженное ЛЕНТА, весовое
+    url: https://lenta.com/product/serdce-govyazhe-zam-ves-rossiya-660947/
+  - id: 660846
+    name: Язык говяжий замороженный ЛЕНТА, весовой
+    url: https://lenta.com/product/yazyk-govyazhijj-zam-ves-rossiya-660846/
+  - id: 571738
+    name: Сердце индеек ПАВА-ПАВА, 500г
+    url: https://lenta.com/product/serdce-indeek-lotok-ohl-mgs-rossiya-500g-571738/
+  - id: 741057
+    name: Сердечки куриные ЛЕНТА в желе, 350г
+    url: https://lenta.com/product/mk-serdechki-kurinye-v-zhele-rossiya-350g-741057/
+  - id: 563515
+    name: Печень куриная замороженная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/pechen-kurinaya-zam-ves-rossiya-563515/
+  - id: 588081
+    name: Печень говяжья ЛЕНТА замороженная, весовая
+    url: https://lenta.com/product/pechen-govyazhya-zam-ves-rossiya-588081/
+  - id: 678740
+    name: Язык свиной ЛЕНТА замороженный, весовой
+    url: https://lenta.com/product/yazyk-svinojj-zam-ves-rossiya-678740/
+  - id: 78871
+    name: Желудки куриные замороженные, весовые
+    url: https://lenta.com/product/zheludki-kurinye-zam-fas-rossiya-78871/
+  - id: 66757
+    name: Языки свиные ГЛАВПРОДУКТ в желе ГОСТ, 250г
+    url: https://lenta.com/product/yazyki-svinye-v-zhele-gost-7993-90-r-55477-2013-klyuch-rossiya-250g-66757/
+  полуфабрикаты:
+  - id: 553526
+    name: Шницель куриный ПЕТЕЛИНКА, 300г
+    url: https://lenta.com/product/shnicel-kurinyjj-rossiya-300g-553526/
+  - id: 339802
+    name: Котлеты из мраморной говядины МИРАТОРГ Блэк Ангус, 400г
+    url: https://lenta.com/product/kotlety-iz-mramornojj-govyadiny-blek-angus-ohl-rossiya-400g-339802/
+  - id: 507473
+    name: Колбаски из свинины БЛИЖНИЕ ГОРКИ Шашлычные №2, 400г
+    url: https://lenta.com/product/kolbaski-shashlychnye-bo-ohl-lotok-rossiya-400g-507473/
+  - id: 11409
+    name: Шницель куриный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shnicel-kurinyjj-polufabrikat-ohlazhdennyjj-rossiya-11409/
+  - id: 429379
+    name: Котлеты куриные ПЕТЕЛИНКА Сливочные, 500г
+    url: https://lenta.com/product/kotlety-kurinye-slivochnye-ohl-rossiya-500g-429379/
+  - id: 377185
+    name: Колбаски из говядины МИРАТОРГ Чевапчичи, 300г
+    url: https://lenta.com/product/kolbaski-iz-govyadiny-chevapchichi-rossiya-300g-377185/
+  - id: 737303
+    name: Колбаски из индейки ИНДИЛАЙТ Барбекю, 350г
+    url: https://lenta.com/product/kolbaski-barbekyu-iz-indejjki-ohl-rossiya-350g-737303/
+  - id: 738177
+    name: Котлета ИНДИЛАЙТ Натуральная, 400г
+    url: https://lenta.com/product/kotleta-naturalnaya-ohl-gvu-lotok-rossiya-400g-738177/
+  - id: 43190
+    name: Котлеты куриные Классические ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/kotlety-klassicheskie-kurinye-polufabrikat-ohlazhdennyjj-rossiya-43190/
+  - id: 441419
+    name: Котлеты БЛИЖНИЕ ГОРКИ Домашние, 400г
+    url: https://lenta.com/product/kotlety-domashnie-ohl-lotok-rossiya-400g-441419/
+  - id: 595138
+    name: Котлеты из свинины и говядины Домашние ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/kotlety-domashnie-iz-svininy-i-govyadiny-polufabrikat-rossiya-595138/
+  - id: 15888
+    name: Котлетное мясо из говядины бескостное ЛЕНТА FRESH, весовое
+    url: https://lenta.com/product/govyadina-kotletnoe-myaso-beskostnoe-polufabrikat-ohlazhdennyjj-rossiya-15888/
+  - id: 712508
+    name: Колбаски куриные ТРОЕКУРОВО Курбаски мини, 350г
+    url: https://lenta.com/product/kolbaski-kurinye-mini-kurbaski-ohl-podlozhka-rossiya-350g-712508/
+  - id: 575729
+    name: Колбаски куриные для жарки ПЕРВАЯ СВЕЖЕСТЬ с сыром, 500г
+    url: https://lenta.com/product/kolbaski-kurinye-dlya-zharki-s-syrom-rossiya-500g-575729/
+  - id: 702100
+    name: Котлеты СЛОВО МЯСНИКА Три мяса, рубленые, категория Б, 360г
+    url: https://lenta.com/product/kotlety-tri-myasa-rublenye-katb-ohl-rossiya-360g-702100/
+  - id: 702085
+    name: Биточки СЛОВО МЯСНИКА Для всей семьи, рубленые, категория Б, 360г
+    url: https://lenta.com/product/bitochki-dlya-vsejj-semi-rublenye-katb-ohl-rossiya-360g-702085/
+  - id: 739286
+    name: Колбаски из мяса индеек ПАВА ПАВА мини, рубленые формованные в оболочке,
+      330г
+    url: https://lenta.com/product/kolbaski-mini-iz-myasa-indeek-rublenye-formovannye-v-obolochke-ohl-rossiya-330g-739286/
+  - id: 736716
+    name: Котлеты для бургеров DELIKAISER, 200г
+    url: https://lenta.com/product/kotlety-dburgerov-rossiya-200g-736716/
+  - id: 862207
+    name: Котлеты из свинины и говядины БЛИЖНИЕ ГОРКИ, 360г
+    url: https://lenta.com/product/kotlety-iz-svininy-i-govyadiny-ohl-lotok-rossiya-360g-862207/
+  - id: 585847
+    name: Колбаски ПЕРВАЯ СВЕЖЕСТЬ Нежные гриль, 500г
+    url: https://lenta.com/product/kolbaski-gril-nezhnye-lotok-rossiya-500g-585847/
+  - id: 11318
+    name: Биточки из свинины ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/bitochki-iz-svininy-polufabrikat-rossiya-11318/
+  - id: 362337
+    name: Котлеты из свинины и говядины ЧЕРКИЗОВО Домашние, 400г
+    url: https://lenta.com/product/kotlety-domashnie-svinina-govyadina-za-lotok-ohl-rossiya-400g-362337/
+  - id: 919332
+    name: Котлета для бургера из говядины ДРУЖЕ, 260г
+    url: https://lenta.com/product/kotleta-dlya-burgera-iz-govyadiny-ohl-rossiya-260g-919332/
+  - id: 899983
+    name: Котлеты из мраморной говядины для бургера PRIMEBEEF, 260г
+    url: https://lenta.com/product/kotlety-dlya-burgera-iz-mramornojj-govyadiny-ohl-rossiya-260g-899983/
+  - id: 916439
+    name: Колбаски из говядины для гриля ДРУЖЕ Чевапчичи, 300г
+    url: https://lenta.com/product/kolbaski-chevapchichi-dlya-grilya-iz-govyadiny-ohl-rossiya-300g-916439/
+  - id: 11323
+    name: Шницель свиной отбивной ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shnicel-svinojj-otbivnojj-polufabrikat-ohlazhdennyjj-rossiya-11323/
+  другое:
+  - id: 727988
+    name: Стейк ПАВА ПАВА пряный с горчицей и паприкой, 450г
+    url: https://lenta.com/product/stejjk-pryanyjj-s-gorchicejj-i-paprikojj-rossiya-450g-727988/
+  - id: 731792
+    name: Купаты ЛЕНТА на углях, 400г
+    url: https://lenta.com/product/kupaty-na-uglyah-ohl-rossiya-400g-731792/
+  - id: 701576
+    name: Голубцы Ленивые с мясом и рисом ЛЕНТА FRESH, весовые
+    url: https://lenta.com/product/golubcy-lenivye-s-myasom-i-risom-polufabrikat-701576/
+  - id: 664585
+    name: Филе грудки ПАВА ПАВА большое, 800г
+    url: https://lenta.com/product/file-grudki-bolshoe-ohl-vu-rossiya-800g-664585/
+  - id: 531182
+    name: Грудинка соленая ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/grudinka-solenaya-produkt-iz-shpika-solenyjj-ohl-ves-rossiya-531182/
+  - id: 737180
+    name: Филе грудки ПЕТЕЛИНКА По-мексикански в соусе Чураско, малое, 450г
+    url: https://lenta.com/product/file-grudki-maloe-po-meksikanski-v-souse-churasko-ohl-rossiya-450g-737180/
+  - id: 731388
+    name: Медальоны из мяса утят ОЗЁРКА бескостные, 510г
+    url: https://lenta.com/product/medalony-iz-myasa-utyat-bk-ohl-rossiya-510g-731388/
+  - id: 699900
+    name: Корнишон замороженный ЛЕНТА FRESH, 450г
+    url: https://lenta.com/product/kornishon-zam-rossiya-450g-699900/
+  - id: 769264
+    name: Набор для супа из мяса перепелов QEGG замороженный, 1кг
+    url: https://lenta.com/product/nabor-dlya-supa-iz-myasa-perepelov-zam-rossiya-1000g-769264/
+  - id: 584868
+    name: Стейк МЯСО ЕСТЬ! 200г
+    url: https://lenta.com/product/stejjk-tip-ohl-rossiya-200g-584868/
+  - id: 165402
+    name: Грудинка Пряная ЛЕНТА FRESH, весовая
+    url: https://lenta.com/product/grudinka-pryanaya-ohl-ves-rossiya-165402/
+  - id: 703915
+    name: Оленина PREMIUM CLUB, 325г
+    url: https://lenta.com/product/myasnye-konservy-olenina-zhb-rossiya-325g-703915/
+  - id: 744489
+    name: Мясо кур 365 ДНЕЙ Особое, 325г
+    url: https://lenta.com/product/mk-kurica-myaso-kur-osoboe-rossiya-325g-744489/
+  - id: 694216
+    name: Конина тушеная PREMIUM CLUB, 338г
+    url: https://lenta.com/product/mk-konina-tushenaya-zhb-rossiya-338g-694216/
+  - id: 698664
+    name: Перепел замороженный ЛЕНТА FRESH, 500г
+    url: https://lenta.com/product/perepel-zam-rossiya-500g-698664/
+  - id: 387947
+    name: Тушка перепела замороженная, 1-й сорт, весовая
+    url: https://lenta.com/product/perepel-tushka-1sort-zam-ves-rossiya-387947/
+  шашлык:
+  - id: 352256
+    name: Шашлык из свиной шеи в брусничном маринаде ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svinojj-shei-v-brusnichnom-marinadepolufabrikat-ohlazhdennyjj-rossiya-352256/
+  - id: 94377
+    name: Шашлык из свиной шейки Премиум ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svinojj-shei-premium-polufabrikat-ohlazhdennyjj-rossiya-94377/
+  - id: 352255
+    name: Шашлык из свиного окорока в маринаде Грузинский ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-lenta-fresh-iz-svinogo-okoroka-v-marinade-gruzinskijj-iz-svinogo-okoroka-v-marinade-gruzins-352255/
+  - id: 123587
+    name: Шашлык из филе куриной грудки Деликатесный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-file-grudki-kurinojj-delikatesnyjj-polufabrikat-ohlazhdennyjj-rossiya-123587/
+  - id: 467034
+    name: Шашлык из свинины в томатном маринаде ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svininy-v-tomatnom-marinade-polufabrikat-ohlazhdennyjj-rossiya-467034/
+  - id: 739666
+    name: Шашлык из куриного филе в маринаде манго‑чили ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-lenta-fresh-iz-kurinogo-file-iz-kurinogo-file-v-marinade-mango-chili-polufabrikat-ohl-rossi-739666/
+  - id: 68416
+    name: Шашлык из свиного окорока в кефире ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svinogo-okoroka-v-kefire-polufabrikat-ohlazhdennyjj-68416/
+  - id: 181547
+    name: Шашлык из свиной корейки в маринаде ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svinojj-korejjki-v-marinade-polufabrikat-ohlazhdennyjj-rossiya-181547/
+  - id: 232109
+    name: Шашлык из свинины в маринаде Алабама ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-svininy-v-marinade-alabama-polufabrikat-ohlazhdjnnyjj-rossiya-232109/
+  - id: 709386
+    name: Шашлык из куриного мяса бедра в маринаде ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-kurinogo-myasa-bedra-v-marinade-polufabrikat-ohlazhdennyjj-709386/
+  - id: 267441
+    name: Шашлык из мяса бедра индейки в маринаде Трюфель ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-lenta-fresh-iz-file-bedra-indejjki-iz-myasa-bedra-indejjki-v-marinade-tryufel-polufabrikat-267441/
+  - id: 718972
+    name: Шашлык из индейки Деликатесный ЛЕНТА FRESH, весовой
+    url: https://lenta.com/product/shashlyk-iz-indejjki-delikatesnyjj-polufabrikat-ohlazhdennyjj-718972/
+  утка:
+  - id: 769267
+    name: Окорочок утенка ОЗЁРКА, 600г
+    url: https://lenta.com/product/okorochok-utenka-ohl-rossiya-600g-769267/
+  - id: 645481
+    name: Набор для бульона из утенка ОЗЁРКА, 400г
+    url: https://lenta.com/product/nabor-dlya-bulona-iz-utenka-ohl-rossiya-400g-645481/
+  - id: 716781
+    name: Тушка утенка ОЗЁРКА 1 сорт, потрошенная, замороженная, весовая
+    url: https://lenta.com/product/tushka-utenka-1s-potr-zam-ves-rossiya-716781/
+  - id: 712961
+    name: Мясо утки SUPER в собственном соку, 870г
+    url: https://lenta.com/product/mk-myaso-utki-v-sobstvennom-soku-stb-rossiya-870g-712961/
+  - id: 730297
+    name: Филе утенка ОЗЁРКА По-пекински в маринаде, 500г
+    url: https://lenta.com/product/file-utenka-po-pekinski-v-marinade-rossiya-500g-730297/
+  баранина:
+  - id: 440348
+    name: Баранина ЭКОЛЬ мякоть, бескостная, 400г
+    url: https://lenta.com/product/baranina-myakot-bk-ohl-rossiya-400g-440348/
+  - id: 700786
+    name: Баранина тушеная PREMIUM CLUB высший сорт, 325г
+    url: https://lenta.com/product/myasnye-konservy-baranina-tushenaya-vysshijj-sort-zhb-rossiya-325g-700786/
+  кролик:
+  - id: 746844
+    name: Тушка кролика КРОЛКОВО, весовая
+    url: https://lenta.com/product/tushka-krolika-ohl-vu-rossiya-746844/
+  - id: 347050
+    name: Кролик тушеный ДРУЖЕ мясо на кости, 325г
+    url: https://lenta.com/product/mk-krolik-zhb-rossiya-325-g-347050/
+  - id: 703914
+    name: Кролик PREMIUM CLUB, 325г
+    url: https://lenta.com/product/myasnye-konservy-krolik-zhb-rossiya-325g-703914/
+  консервы:
+  - id: 894982
+    name: Тушенка кусковая с говядиной, 340г
+    url: https://lenta.com/product/rmk-tushenka-kuskovaya-s-govyadinojj-rossiya-340g-894982/
+  - id: 656990
+    name: Тушенка 365 ДНЕЙ с говядиной, 325г
+    url: https://lenta.com/product/konservy-tushenka-s-govyadinojj-rossiya-325g-656990/
+  - id: 768306
+    name: Мясо перепела QEGG задняя четвертина, кусковое мясокостное, 350г
+    url: https://lenta.com/product/chetvertina-perepelov-zadnyaya-pf-kuskov-myasokostnyjj-ohl-rossiya-350g-768306/
+  - id: 73210
+    name: Тушенка со свининой, 340г
+    url: https://lenta.com/product/mk-tushenka-so-svininojj-rossiya-340g-73210/
+  - id: 744114
+    name: Мясо перепела для жаркого QEGG без костное, замороженное, 500г
+    url: https://lenta.com/product/myaso-perepela-dzharkogo-bk-zam-rossiya-500g-744114/
+  - id: 895814
+    name: Закуска мясная ГРОДФУД Домашняя, 100г
+    url: https://lenta.com/product/konservy-myasnaya-zakuska-domashnyaya-belarus-100g-895814/
+  - id: 656874
+    name: Тушенка 365 ДНЕЙ со свининой, 325г
+    url: https://lenta.com/product/konservy-tushenka-so-svininojj-rossiya-325g-656874/
